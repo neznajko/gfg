@@ -133,7 +133,7 @@ string Solution::smallestWindow( string& s, string& p) {
     int n = build();
     if( n < this->p.size()) return TOPRAC;
     if( n == 1) return this->s.substr( m.front, n);
-	////////////////////////////////////////////////////////////
+    ////////////////////////////////////////////////////////////
     /** SLIDE **/
     w = m;
     while( slide()) {
