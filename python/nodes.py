@@ -66,7 +66,7 @@ class Solution:
         # discard 0-1 edge
         self.g[ 0].remove( 1)
         self.g[ 1].remove( 0)
-        return  self.bfs( k)
+        return self.bfs( k)
 ########################################################    
     def dfs( self, node, pare):
         self.c += 1 # node's name
