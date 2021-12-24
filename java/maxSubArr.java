@@ -23,22 +23,22 @@ import java.io.IOException;
 import java.util.Arrays;
 ////////////////////////////////////////////////////////////////
 class Main {    
-	public static void main( String[] args) throws IOException {
+    public static void main( String[] args) throws IOException {
         InputStreamReader isr = new InputStreamReader( System.in);
-		BufferedReader br = new BufferedReader( isr);
-		int t = Integer.parseInt( br.readLine().trim());
-		while( t-- != 0) {
-		    int n = Integer.parseInt( br.readLine().trim());
-		    int arr[] = new int[ n];
-		    String buf[] = br.readLine().trim().split( " ");
-		    for( int i = 0; i < n; i++) {
-		        arr[ i] = Integer.parseInt( buf[ i]);
-		    }		    
-		    Solution obj = new Solution();
+        BufferedReader br = new BufferedReader( isr);
+        int t = Integer.parseInt( br.readLine().trim());
+        while( t-- != 0) {
+            int n = Integer.parseInt( br.readLine().trim());
+            int arr[] = new int[ n];
+            String buf[] = br.readLine().trim().split( " ");
+            for( int i = 0; i < n; i++) {
+                arr[ i] = Integer.parseInt( buf[ i]);
+            }           
+            Solution obj = new Solution();
             int s = obj.circularSubarraySum( arr, n);
-		    System.out.println( s);
-		}
-	}
+            System.out.println( s);
+        }
+    }
 }
 ////////////////////////////////////////////////////////////////
 // This is known as Kadane Algorithm bcos he'd figured first how
