@@ -6,3 +6,5 @@
 **Nodes at given distance in binary tree**
 ### java/maxSubArr.java
 *Max Circular Subarray Sum*
+### python/Euler.py
+*Is **Eulerian** path exist?*
