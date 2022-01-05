@@ -10,3 +10,5 @@
 *Is **Eulerian** path exist?*
 ### java/preOrderCons.java
 Construct a tree from pre-o-o-rder!
+### python/cities.py
+*Geek lives in a special city where ..*
