@@ -12,3 +12,5 @@
 Construct a tree from pre-o-o-rder!
 ### python/cities.py
 *Geek lives in a special city where ..*
+### javascript/scc.js
+Count number of *Strongly Connected Components.*
