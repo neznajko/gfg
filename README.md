@@ -14,3 +14,5 @@ Construct a tree from pre-o-o-rder!
 *Geek lives in a special city where ..*
 ### javascript/scc.js
 Count number of *Strongly Connected Components.*
+### python/Bellman-Ford.py
+Finding shortest paths in directed graphs using normal queue.
