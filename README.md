@@ -16,3 +16,6 @@ Construct a tree from pre-o-o-rder!
 Count number of *Strongly Connected Components.*
 ### python/Bellman-Ford.py
 Finding shortest paths in directed graphs using normal queue.
+### python/n-cycle.py
+Chcking if negative cycle exist in directed graph.
+
