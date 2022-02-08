@@ -20,3 +20,5 @@ Finding shortest paths in directed graphs using normal queue.
 Chcking if negative cycle exist in directed graph.
 ### python/bipartite.py
 Chckng for Bipartite Graph.
+### cpp/minPoints.cpp
+[Ok] dynamic programming
