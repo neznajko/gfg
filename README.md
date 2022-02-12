@@ -22,3 +22,5 @@ Chcking if negative cycle exist in directed graph.
 Chckng for Bipartite Graph.
 ### cpp/minPoints.cpp
 [Ok] dynamic programming
+### cpp/bitdiff.cpp
+Bit Magic
