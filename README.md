@@ -24,3 +24,5 @@ Chckng for Bipartite Graph.
 [Ok] dynamic programming
 ### cpp/bitdiff.cpp
 Bit Magic
+### cpp/divide.cc
+Divisn without usng multiplication
