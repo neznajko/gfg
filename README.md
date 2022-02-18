@@ -26,3 +26,5 @@ Chckng for Bipartite Graph.
 Bit Magic
 ### cpp/divide.cc
 Divisn without usng multiplication
+### python/bst-merge.py
+Merge two BST's
