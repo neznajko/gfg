@@ -30,3 +30,5 @@ Divisn without usng multiplication
 Merge two BST's
 ### python/Salesman.py
 The famous problem
+### java/mergesort.java
+Merge Sort Classic Algorithm
