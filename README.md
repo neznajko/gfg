@@ -34,3 +34,5 @@ The famous problem
 Merge Sort Classic Algorithm
 ### cpp/islands.c
 dfs
+### cpp/inversions.cpp
+Count number of inversions for O(nlog(n))
