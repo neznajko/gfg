@@ -36,3 +36,5 @@ Merge Sort Classic Algorithm
 dfs
 ### cpp/inversions.cpp
 Count number of inversions for O(nlog(n))
+### python/stocks.py
+Buying and selling stocks
