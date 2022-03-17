@@ -38,3 +38,5 @@ dfs
 Count number of inversions for O(nlog(n))
 ### python/stocks.py
 Buying and selling stocks
+### python/minSpanTree.py
+Minimum Spanning Tree
