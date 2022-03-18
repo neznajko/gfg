@@ -40,3 +40,5 @@ Count number of inversions for O(nlog(n))
 Buying and selling stocks
 ### python/minSpanTree.py
 Minimum Spanning Tree
+### cpp/listrevs.cpp
+Reverse in-place given range of a linked list for O(n)
