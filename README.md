@@ -42,3 +42,5 @@ Buying and selling stocks
 Minimum Spanning Tree
 ### cpp/listrevs.cpp
 Reverse in-place given range of a linked list for O(n)
+### cpp/atoi.cpp
+ascii string to integer
