@@ -44,3 +44,5 @@ Minimum Spanning Tree
 Reverse in-place given range of a linked list for O(n)
 ### cpp/atoi.cpp
 ascii string to integer
+### cpp/nextperm.cpp
+Find next permutation
