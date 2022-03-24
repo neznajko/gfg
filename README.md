@@ -48,3 +48,5 @@ ascii string to integer
 Find next permutation
 ### cpp/dll.cpp
 *Convyort binary tree leaf nodes to dll*
+### cpp/LIS.cpp
+*Longest Increasing Subsequence*
