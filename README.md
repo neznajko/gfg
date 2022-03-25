@@ -50,3 +50,5 @@ Find next permutation
 *Convyort binary tree leaf nodes to dll*
 ### cpp/LIS.cpp
 *Longest Increasing Subsequence*
+### cpp/convert.cpp
+*Minimum editions required for converting array A to B*
