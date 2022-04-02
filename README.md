@@ -61,3 +61,4 @@
     Minimum Spanning Tree
 - eggs.py
     dropping puzzle
+- **covid.py** *Aterp is the head nurse at a city hospital..*
