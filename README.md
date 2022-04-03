@@ -25,6 +25,7 @@
     *Longest Increasing Subsequence*
 - convert.cpp
     *Minimum editions required for converting array A to B*
+- ***prefix.cc*** *Trie's prefixes*
 
 ### java/
 - maxSubArr.java
