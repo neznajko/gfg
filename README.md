@@ -27,6 +27,7 @@
     *Minimum editions required for converting array A to B*
 - ***prefix.cc*** *Trie's prefixes*
 - **cdll.cc** *Binary Tree to Circular DLL*
+- ***qsort.c***: Guess what?, quick sort!
 
 ### java/
 - maxSubArr.java
