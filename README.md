@@ -40,6 +40,7 @@
 ### javascript/
 - scc.js
     Count number of *Strongly Connected Components.*
+- ***matchain.js[ *** Dynamic Programming **]** *Matrix Chain Multiplication*
 
 ### python/
 - nodes.py
