@@ -36,6 +36,7 @@
     Construct a tree from pre-o-o-rder!
 - mergesort.java
     Merge Sort Classic Algorithm
+- ***bøolmat.java**, Brute Force plus a **continue** trick*
 
 ### javascript/
 - scc.js
