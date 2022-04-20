@@ -28,6 +28,7 @@
 - ***prefix.cc*** *Trie's prefixes*
 - **cdll.cc** *Binary Tree to Circular DLL*
 - ***qsort.c***: Guess what?, quick sort!
+- ***maxsqr.cc**, maximum square in a histogram*
 
 ### java/
 - maxSubArr.java
