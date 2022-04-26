@@ -38,6 +38,7 @@
 - mergesort.java
     Merge Sort Classic Algorithm
 - ***bøolmat.java**, Brute Force plus a **continue** trick*
+- ***paatitn.java**: Linked List partitioning*
 
 ### javascript/
 - scc.js
