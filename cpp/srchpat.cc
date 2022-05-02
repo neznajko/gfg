@@ -45,7 +45,7 @@ public:
     vector<int> search( const string &pat, const string &txt );
 };
 ////////////////////////////////////////////////////////////////
-// I'm 299.98 % sure this isn't Rabin-Karp Algorithm, but I hope
+// I'm 299.99 % sure this isn't Rabin-Karp Algorithm, but I hope
 // it's working.
 vector<int> Solution::search( const string &pat,
                               const string &txt ){

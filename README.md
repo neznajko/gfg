@@ -29,7 +29,7 @@
 - **cdll.cc** *Binary Tree to Circular DLL*
 - ***qsort.c***: Guess what?, quick sort!
 - ***maxsqr.cc**, maximum square in a histogram*
-- ***srchpat.cc**; searching string for pattern positions*
+- ***srchpat.cc**, searching string for pattern positions*
 
 ### java/
 - maxSubArr.java
