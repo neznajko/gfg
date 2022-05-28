@@ -49,6 +49,7 @@
 - scc.js
     Count number of *Strongly Connected Components.*
 - ***matchain.js[*** Dynamic Programming **]** *Matrix Chain Multiplication*
+- ***minJump.js**, minimum number of jumps*
 
 ### python/
 - nodes.py
