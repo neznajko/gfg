@@ -118,7 +118,7 @@ class Solution {
                 }
             }
         }
-        if(a[0] != nil) return nil;
+        if( a[0] != nil ) return nil;
         n = 0;
         for( let j = goal; a[j] > -1; j = a[j] ){
             n++;
