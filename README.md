@@ -51,6 +51,7 @@
     Count number of *Strongly Connected Components.*
 - ***matchain.js[*** Dynamic Programming **]** *Matrix Chain Multiplication*
 - ***minJump.js**, minimum number of jumps*
+- ***MinmzeHeights.js**: The next fake medium, that is hard, problem.*
 
 ### python/
 - nodes.py
