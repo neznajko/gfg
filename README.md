@@ -80,3 +80,4 @@
 - ***concat.py**, 10-ary search **trie** problem*
 - ***WordLadder.py**: b f s, shortest path stoff*
 - ***Maze.py**; Adventure in a Maze*
+- ***Majority.py**,. another fake medium, that is easy, problem*
