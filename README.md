@@ -52,7 +52,7 @@
 - ***matchain.js[*** Dynamic Programming **]** *Matrix Chain Multiplication*
 - ***minJump.js**, minimum number of jumps*
 - ***MinmzeHeights.js**: The next fake medium, that is hard, problem.*
-
+- ***TrappingRainWater.js**: Using histograms for trapping rain water.*
 ### python/
 - nodes.py
     **Nodes at given distance in binary tree**
