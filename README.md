@@ -34,6 +34,7 @@
 - ***smlpos.cc**; Find the smallest positive integer that can't be represented as sum*
 - ***delgreat.cc**, Delete nodes with greater value on right.*
 - ***rmloof.cc**` Floyd's Cycle Detection Algorithm.*
+- ***Y.cc**, finding Y-shaped linked list, fork origin*
 
 ### java/
 - maxSubArr.java
