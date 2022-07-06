@@ -46,6 +46,7 @@
 - ***bøolmat.java**, Brute Force plus a **continue** trick*
 - ***paatitn.java**: Linked List partitioning*
 - ***uniq.java**: Unique BST's*
+- ***rotateList.java**, ccw( left shift )linked list rotation*
 
 ### javascript/
 - scc.js
