@@ -36,6 +36,7 @@
 - ***rmloof.cc**` Floyd's Cycle Detection Algorithm.*
 - ***Y.cc**, finding Y-shaped linked list, fork origin*
 - ***topView.cc**, check this out, top view of binary tree!*
+- ***longestConseq.cc**, longest consec subseq!*
 
 ### java/
 - maxSubArr.java
