@@ -49,6 +49,7 @@
 - ***paatitn.java**: Linked List partitioning*
 - ***uniq.java**: Unique BST's*
 - ***rotateList.java**, ccw( left shift )linked list rotation*
+- ***sumTree.java**, sum of tree nodes data; type of problem*
 
 ### javascript/
 - scc.js
