@@ -37,6 +37,7 @@
 - ***Y.cc**, finding Y-shaped linked list, fork origin*
 - ***topView.cc**, check this out, top view of binary tree!*
 - ***longestConseq.cc**, longest consec subseq!*
+- ***platforms.cc**, nice problem about resolving a timetable*
 
 ### java/
 - maxSubArr.java
