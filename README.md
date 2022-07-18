@@ -89,3 +89,5 @@
 - ***Maze.py**; Adventure in a Maze*
 - ***Majority.py**,. another fake medium, that is easy, problem*
 - ***minStack.py**, O(1) stuff*
+- ***missRep.py**, tricky trickster problem*
+
