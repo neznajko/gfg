@@ -38,6 +38,7 @@
 - ***topView.cc**, check this out, top view of binary tree!*
 - ***longestConseq.cc**, longest consec subseq!*
 - ***platforms.cc**, nice problem about resolving a timetable*
+- ***stmul.cpp**, multiplying strings*
 
 ### java/
 - maxSubArr.java
