@@ -63,11 +63,11 @@ int inc( string& s, const string& t ){
 // There is no way how to reduce s*t if t is digit, so we have t o----
 // implement it. Here s must have at least one leading zero, d s hould
 // be in the range [1, 9].
-void cross( string&s , int d ){
+void cross( string& s, int d ){
     const string t( s );
     for( int j = 1; j < d; j++ ){
         inc( s, t );
-    }    
+    }
 }
 ////////////////////////////////////////////////////////////////
 // s*t = (s*[t/10])*10 + s*(t%10)
