@@ -53,6 +53,7 @@
 - ***rotateList.java**, ccw( left shift )linked list rotation*
 - ***sumTree.java**, sum of tree nodes data; type of problem*
 - ***LRUDesign.java**, LRU Cache Data Structure*
+- ***stairs.java**, nambà of ways to reach the nth stair*
 
 ### javascript/
 - scc.js
