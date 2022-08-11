@@ -54,6 +54,7 @@
 - ***sumTree.java**, sum of tree nodes data; type of problem*
 - ***LRUDesign.java**, LRU Cache Data Structure*
 - ***stairs.java**, nambà of ways to reach the nth stair*
+- ***boxes.java**, placing boxes on top of each other.*
 
 ### javascript/
 - scc.js
