@@ -56,6 +56,7 @@
 - ***stairs.java**, nambà of ways to reach the nth stair*
 - ***boxes.java**, placing boxes on top of each other.*
 - ***change.java**, number of ways to make a change.*
+- ***maxpath.java**, a classical dp problem.*
 
 ### javascript/
 - scc.js
