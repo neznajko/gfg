@@ -57,6 +57,7 @@
 - ***boxes.java**, placing boxes on top of each other.*
 - ***change.java**, number of ways to make a change.*
 - ***maxpath.java**, a classical dp problem.*
+- ***maxpro.java**, Maximum Product Subarray*
 
 ### javascript/
 - scc.js
