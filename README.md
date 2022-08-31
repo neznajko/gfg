@@ -98,4 +98,4 @@
 - ***Majority.py**,. another fake medium, that is easy, problem*
 - ***minStack.py**, O(1) stuff*
 - ***missRep.py**, tricky trickster problem*
-
+- ***inGrpsRevs.py**, Reverse a Linked List in groups of given size*
