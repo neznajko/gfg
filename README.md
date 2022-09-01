@@ -100,3 +100,4 @@
 - ***missRep.py**, tricky trickster problem*
 - ***inGrpsRevs.py**, Reverse a Linked List in groups of given size*
 - ***nonRepeat.py**, first non-repeating character in a stream*
+- ***Dijkstra.py**, implementing Dijkstra Algorithm*
