@@ -58,6 +58,7 @@
 - ***change.java**, number of ways to make a change.*
 - ***maxpath.java**, a classical dp problem.*
 - ***maxpro.java**, Maximum Product Subarray*
+- ***coins.java**, Number of coins to make a change*
 
 ### javascript/
 - scc.js
