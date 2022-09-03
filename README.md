@@ -59,6 +59,7 @@
 - ***maxpath.java**, a classical dp problem.*
 - ***maxpro.java**, Maximum Product Subarray*
 - ***coins.java**, Number of coins to make a change*
+- ***nextGreater.java**, Next Greater Element( wtf? )*
 
 ### javascript/
 - scc.js
