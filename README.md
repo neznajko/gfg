@@ -69,6 +69,7 @@
 - ***MinmzeHeights.js**: The next fake medium, that is hard, problem.*
 - ***TrappingRainWater.js**: Using histograms for trapping rain water.*
 - ***wildcard.js**, Wildcard Pattern Matching*
+- ***largestNumber.js**, forming largest number from an array*
 
 ### python/
 - nodes.py
