@@ -70,6 +70,7 @@
 - ***TrappingRainWater.js**: Using histograms for trapping rain water.*
 - ***wildcard.js**, Wildcard Pattern Matching*
 - ***largestNumber.js**, forming largest number from an array*
+- ***zeroSum.js**, number of zero sum sub-arrays*
 
 ### python/
 - nodes.py
