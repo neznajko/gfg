@@ -106,3 +106,4 @@
 - ***nonRepeat.py**, first non-repeating character in a stream*
 - ***Dijkstra.py**, implementing Dijkstra Algorithm*
 - ***subTree.py**, checking if subtree*
+- ***findWhether.py**, find whether path exist*
