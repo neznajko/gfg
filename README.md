@@ -107,3 +107,5 @@
 - ***Dijkstra.py**, implementing Dijkstra Algorithm*
 - ***subTree.py**, checking if subtree*
 - ***findWhether.py**, find whether path exist*
+- ***smallestPositive.py**, find a number missing from an array*
+- ***wordBoggle.py**, a nice problem from Google*
