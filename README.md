@@ -39,6 +39,7 @@
 - ***longestConseq.cc**, longest consec subseq!*
 - ***platforms.cc**, nice problem about resolving a timetable*
 - ***stmul.cpp**, multiplying strings*
+- ***wine.cc**, buying and selling bottles of wine*
 
 ### java/
 - maxSubArr.java
