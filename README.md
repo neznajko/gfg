@@ -110,3 +110,4 @@
 - ***findWhether.py**, find whether path exist*
 - ***smallestPositive.py**, find a number missing from an array*
 - ***wordBoggle.py**, a nice problem from Google*
+- ***overlap.py**, merging overlapping intervals*
