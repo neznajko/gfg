@@ -112,3 +112,6 @@
 - ***wordBoggle.py**, a nice problem from Google*
 - ***overlap.py**, merging overlapping intervals*
 - ***meetings.py**, a 101020 test cases problem*
+
+### dotnet/
+- ***HeapSort.cs**, tricky stóff*
