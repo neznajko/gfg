@@ -61,6 +61,7 @@
 - ***maxpro.java**, Maximum Product Subarray*
 - ***coins.java**, Number of coins to make a change*
 - ***nextGreater.java**, Next Greater Element( wtf? )*
+- ***citour.java**, Circular tour*
 
 ### javascript/
 - scc.js
