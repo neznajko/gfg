@@ -114,6 +114,7 @@
 - ***overlap.py**, merging overlapping intervals*
 - ***meetings.py**, a 101020 test cases problem*
 - ***ancestor.py**, common ancestor in binary tree*
+- ***maxsubarr.py**, maximums of all subarrays, with given size*
 
 ### dotnet/
 - ***HeapSort.cs**, tricky stóff*
