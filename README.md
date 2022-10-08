@@ -73,6 +73,9 @@
 - ***wildcard.js**, Wildcard Pattern Matching*
 - ***largestNumber.js**, forming largest number from an array*
 - ***zeroSum.js**, number of zero sum sub-arrays*
+- ***longestPalin.js**, ain't about Sarah Palin*
+- ***editDistance.js**, classical DP problem*
+- ***interleave.js**, yet another dp problem from Google*
 
 ### python/
 - nodes.py
@@ -120,3 +123,4 @@
 - ***HeapSort.cs**, tricky stóff*
 - ***celeb.cs**, one problem, one celebrity one party*
 - ***connect.cs**, linking tree nodes with same level*
+- ***stickler.cs**, using Dynamic Programming for looting money*
