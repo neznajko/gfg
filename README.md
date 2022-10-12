@@ -40,6 +40,7 @@
 - ***platforms.cc**, nice problem about resolving a timetable*
 - ***stmul.cpp**, multiplying strings*
 - ***wine.cc**, buying and selling bottles of wine*
+- ***fourSum.cc**, Find All Four Sum Numbers( Yeah Ok )*
 
 ### java/
 - maxSubArr.java
