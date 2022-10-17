@@ -78,6 +78,7 @@
 - ***longestPalin.js**, ain't about Sarah Palin*
 - ***editDistance.js**, classical DP problem*
 - ***interleave.js**, yet another dp problem from Google*
+- ***jumpGame.js**, Given an positive integer N and a ..*
 
 ### python/
 - nodes.py
