@@ -122,6 +122,7 @@
 - ***ancestor.py**, common ancestor in binary tree*
 - ***maxsubarr.py**, maximums of all subarrays, with given size*
 - ***kth.py**, k-th smallest element in BST*
+- ***dupsub.py**, Duplicate subtree in Binary Tree*
 
 ### dotnet/
 - ***HeapSort.cs**, tricky stóff*
