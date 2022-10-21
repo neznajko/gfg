@@ -81,6 +81,7 @@
 - ***jumpGame.js**, Given an positive integer N and a ..*
 - ***median.js**, finding the median of two sorted arrays **[Two Pointers]***
 - ***provinces.js**, Count number of provinces **[Graph]***
+- ***cons.js**, Construct an inversion table **[Search]***
 
 ### python/
 - nodes.py
