@@ -82,7 +82,7 @@
 - ***median.js**, finding the median of two sorted arrays **[Two Pointers]***
 - ***provinces.js**, Count number of provinces **[Graph]***
 - ***cons.js**, Construct an inversion table **[Search]***
-- ***MostWater.js**, find container holding most water.**[Two Pointers]***
+- ***MostWater.js**, find container holding most water. **[Two Pointers]***
 
 ### python/
 - nodes.py
