@@ -127,6 +127,7 @@
 - ***maxsubarr.py**, maximums of all subarrays, with given size*
 - ***kth.py**, k-th smallest element in BST*
 - ***dupsub.py**, Duplicate subtree in Binary Tree*
+- ***LCS.py**, Longest Common Subsequence **[DP]***
 
 ### dotnet/
 - ***HeapSort.cs**, tricky stóff*
