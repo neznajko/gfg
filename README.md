@@ -128,6 +128,7 @@
 - ***kth.py**, k-th smallest element in BST*
 - ***dupsub.py**, Duplicate subtree in Binary Tree*
 - ***LCS.py**, Longest Common Subsequence **[DP]***
+- ***LRS.py**, Longest Repeating Subsequence **[DP]***
 
 ### dotnet/
 - ***HeapSort.cs**, tricky stóff*
