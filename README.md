@@ -129,6 +129,7 @@
 - ***dupsub.py**, Duplicate subtree in Binary Tree*
 - ***LCS.py**, Longest Common Subsequence **[DP]***
 - ***LRS.py**, Longest Repeating Subsequence **[DP]***
+- ***enclaves.py**, Counting number of enclaves **[Graph]***
 
 ### dotnet/
 - ***HeapSort.cs**, tricky stóff*
