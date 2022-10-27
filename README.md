@@ -130,6 +130,7 @@
 - ***LCS.py**, Longest Common Subsequence **[DP]***
 - ***LRS.py**, Longest Repeating Subsequence **[DP]***
 - ***enclaves.py**, Counting number of enclaves **[Graph]***
+- ***alien.py**, ordering alien alphabet **[Sort]***
 
 ### dotnet/
 - ***HeapSort.cs**, tricky stóff*
