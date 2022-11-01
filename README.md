@@ -132,6 +132,7 @@
 - ***enclaves.py**, Counting number of enclaves **[Graph]***
 - ***alien.py**, ordering alien alphabet **[Sort]***
 - ***knightwalk.py**, bfs **[Search]***
+- ***closedIslands.py**, dfs **[Search]***
 
 ### dotnet/
 - ***HeapSort.cs**, tricky stóff*
