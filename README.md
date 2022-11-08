@@ -84,6 +84,7 @@
 - ***provinces.js**, Count number of provinces **[Graph]***
 - ***cons.js**, Construct an inversion table **[Search]***
 - ***MostWater.js**, find container holding most water. **[Two Pointers]***
+- ***PotsOfGoldGame.js[*** Dynamic Programming **]** *Game of Pots*
 
 ### python/
 - nodes.py
