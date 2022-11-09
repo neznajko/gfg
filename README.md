@@ -135,6 +135,7 @@
 - ***alien.py**, ordering alien alphabet **[Sort]***
 - ***knightwalk.py**, bfs **[Search]***
 - ***closedIslands.py**, dfs **[Search]***
+- ***modexp.py[*** Recurrence **]** *modular exponetiation*
 
 ### dotnet/
 - ***HeapSort.cs**, tricky stóff*
