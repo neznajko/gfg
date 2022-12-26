@@ -136,6 +136,7 @@
 - ***knightwalk.py**, bfs **[Search]***
 - ***closedIslands.py**, dfs **[Search]***
 - ***modexp.py[*** Recurrence **]** *modular exponetiation*
+- ***mergeSLL.py[*** Linked List **]** *merging sorted linked lists*
 
 ### dotnet/
 - ***HeapSort.cs**, tricky stóff*
