@@ -137,6 +137,7 @@
 - ***closedIslands.py**, dfs **[Search]***
 - ***modexp.py[*** Recurrence **]** *modular exponetiation*
 - ***mergeSLL.py[*** Linked List **]** *merging sorted linked lists*
+- ***maxIndexDiff.py[*** wtf2 **]** *maximum index stuff*
 
 ### dotnet/
 - ***HeapSort.cs**, tricky stóff*
