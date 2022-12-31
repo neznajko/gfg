@@ -138,6 +138,7 @@
 - ***modexp.py[*** Recurrence **]** *modular exponetiation*
 - ***mergeSLL.py[*** Linked List **]** *merging sorted linked lists*
 - ***maxIndexDiff.py[*** wtf2 **]** *maximum index stuff*
+- ***bitdiff.py[*** Bits **]** *Sum of bit differences*
 
 ### dotnet/
 - ***HeapSort.cs**, tricky stóff*
