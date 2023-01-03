@@ -140,6 +140,7 @@
 - ***maxIndexDiff.py[*** wtf2 **]** *maximum index stuff*
 - ***bitdiff.py[*** Bits **]** *Sum of bit differences*
 - ***TowerOfHanoi.py[*** Recursion **]** *The famous puzzle*
+- ***countTotalSetBits.py[*** Recursion **]** *this one is not very famous*
 
 ### dotnet/
 - ***HeapSort.cs**, tricky stóff*
