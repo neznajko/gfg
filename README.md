@@ -141,6 +141,7 @@
 - ***bitdiff.py[*** Bits **]** *Sum of bit differences*
 - ***TowerOfHanoi.py[*** Recursion **]** *The famous puzzle*
 - ***countTotalSetBits.py[*** Recursion **]** *this one is not very famous*
+- ***preorder.py[*** Tree **]** *BST preorder problem*
 
 ### dotnet/
 - ***HeapSort.cs**, tricky stóff*
