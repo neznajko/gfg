@@ -142,6 +142,7 @@
 - ***TowerOfHanoi.py[*** Recursion **]** *The famous puzzle*
 - ***countTotalSetBits.py[*** Recursion **]** *this one is not very famous*
 - ***preorder.py[*** Tree **]** *BST preorder problem*
+- ***midsum.py[*** Search **]** *Divide and Conquer*
 
 ### dotnet/
 - ***HeapSort.cs**, tricky stóff*
