@@ -43,6 +43,7 @@
 - ***fourSum.cc**, Find All Four Sum Numbers( Yeah Ok )*
 - ***maxarea.cc**, Max rectangle*
 - ***cloneGraph.cpp[*** Graph **]** *The Clone Wars*
+- ***geekfight.cc[*** Search **]** *The Binary Search*
 
 ### java/
 - maxSubArr.java
