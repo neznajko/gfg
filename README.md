@@ -44,6 +44,7 @@
 - ***maxarea.cc**, Max rectangle*
 - ***cloneGraph.cpp[*** Graph **]** *The Clone Wars*
 - ***geekfight.cc[*** Search **]** *The Binary Search*
+- ***nearest.cpp[*** Graph **]** *BFS*
 
 ### java/
 - maxSubArr.java
