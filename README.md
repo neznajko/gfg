@@ -45,6 +45,7 @@
 - ***cloneGraph.cpp[*** Graph **]** *The Clone Wars*
 - ***geekfight.cc[*** Search **]** *The Binary Search*
 - ***nearest.cpp[*** Graph **]** *BFS*
+- ***ConsBinTree.cpp[*** Tree **]** *Cons Binary Tree from string*
 
 ### java/
 - maxSubArr.java
