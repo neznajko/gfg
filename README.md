@@ -46,6 +46,7 @@
 - ***geekfight.cc[*** Search **]** *The Binary Search*
 - ***nearest.cpp[*** Graph **]** *BFS*
 - ***ConsBinTree.cpp[*** Tree **]** *Cons Binary Tree from string*
+- ***splitary.cpp[*** Stuff **]** *ary is array in Indian*
 
 ### java/
 - maxSubArr.java
