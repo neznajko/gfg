@@ -69,6 +69,7 @@
 - ***coins.java**, Number of coins to make a change*
 - ***nextGreater.java**, Next Greater Element( wtf? )*
 - ***citour.java**, Circular tour*
+- ***SuperSequence.java[*** Dynamic Programming **]** *Yeah, super sequence!*
 
 ### javascript/
 - scc.js
