@@ -90,6 +90,7 @@
 - ***cons.js**, Construct an inversion table **[Search]***
 - ***MostWater.js**, find container holding most water. **[Two Pointers]***
 - ***PotsOfGoldGame.js[*** Dynamic Programming **]** *Game of Pots*
+- ***preorder.js[*** Tree **]** *Some algorithm from Knuth books*
 
 ### python/
 - nodes.py
