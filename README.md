@@ -91,6 +91,7 @@
 - ***MostWater.js**, find container holding most water. **[Two Pointers]***
 - ***PotsOfGoldGame.js[*** Dynamic Programming **]** *Game of Pots*
 - ***preorder.js[*** Tree **]** *Some algorithm from Knuth books*
+- ***consTree.js[*** Tree **]** *Construct Tree from Inorder & Preorder*
 
 ### python/
 - nodes.py
