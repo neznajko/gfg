@@ -92,6 +92,7 @@
 - ***PotsOfGoldGame.js[*** Dynamic Programming **]** *Game of Pots*
 - ***preorder.js[*** Tree **]** *Some algorithm from Knuth books*
 - ***consTree.js[*** Tree **]** *Construct Tree from Inorder & Preorder*
+- ***SSLBST.js[*** Tree **]** *Sorted Link List to BST*
 
 ### python/
 - nodes.py
