@@ -48,6 +48,7 @@
 - ***ConsBinTree.cpp[*** Tree **]** *Cons Binary Tree from string*
 - ***splitary.cpp[*** Stuff **]** *ary is array in Indian*
 - ***nfTurns.cpp[*** Tree **]** *number of turns in a binary tree*
+- ***BSTMaxHeap.cpp[*** Tree **]** *Convyort BST to Max Heap*
 
 ### java/
 - maxSubArr.java
