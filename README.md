@@ -156,6 +156,7 @@
 - ***countTotalSetBits.py[*** Recursion **]** *this one is not very famous*
 - ***preorder.py[*** Tree **]** *BST preorder problem*
 - ***midsum.py[*** Search **]** *Divide and Conquer*
+- ***single.py[*** Tree **]** *Nf single valued sub-trees*
 
 ### dotnet/
 - ***HeapSort.cs**, tricky stóff*
