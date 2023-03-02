@@ -50,6 +50,7 @@
 - ***nfTurns.cpp[*** Tree **]** *number of turns in a binary tree*
 - ***BSTMaxHeap.cpp[*** Tree **]** *Convyort BST to Max Heap*
 - ***remov.cpp[*** Tree **]** *Remov BST keys outside givn range*
+- ***POST.cpp[*** Tree **]** *Iterative Postorder*
 
 ### java/
 - maxSubArr.java
