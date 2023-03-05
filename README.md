@@ -158,6 +158,7 @@
 - ***preorder.py[*** Tree **]** *BST preorder problem*
 - ***midsum.py[*** Search **]** *Divide and Conquer*
 - ***single.py[*** Tree **]** *Nf single valued sub-trees*
+- ***schedule.py[*** Graph **]** *Ordering of tasks*
 
 ### dotnet/
 - ***HeapSort.cs**, tricky stóff*
