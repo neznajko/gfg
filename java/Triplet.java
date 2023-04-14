@@ -72,7 +72,7 @@ class Solution {
     }
     public static void main( String args[]) throws IOException {
         var isr = new InputStreamReader( System.in );
-		var br = new BufferedReader( isr );
+        var br = new BufferedReader( isr );
         String inputLine[] = br.readLine().trim().split(" ");
         int n = Integer.parseInt( inputLine[ 0 ]);
         int X = Integer.parseInt( inputLine[ 1 ]);
@@ -82,7 +82,7 @@ class Solution {
             A[ i ] = Integer.parseInt( inputLine[ i ]);
         }
         System.out.println( find3Numbers( A, n, X ));
-	}
+    }
 }
 ////////////////////////////////////////////////////////////////
 // Test Cases Passed:                                  125 / 125
