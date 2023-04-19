@@ -57,6 +57,7 @@
 - ***UnitArea.cpp[*** Graph **]** *Basically the same problem as above*
 - ***window.cpp[*** Array **]** *Sliding window baby*
 - ***MaxIncSubSeqSum.cpp[*** DP **]** *Maximum ...*
+- ***nCr.cpp[*** DP **]** *n choose r coefficients*
 
 ### java/
 - maxSubArr.java
