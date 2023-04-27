@@ -62,7 +62,7 @@
 ### java/
 - maxSubArr.java
     *Max Circular Subarray Sum*
- - preOrderCons.java
+- preOrderCons.java
     Construct a tree from pre-o-o-rder!
 - mergesort.java
     Merge Sort Classic Algorithm
@@ -167,6 +167,7 @@
 - ***midsum.py[*** Search **]** *Divide and Conquer*
 - ***single.py[*** Tree **]** *Nf single valued sub-trees*
 - ***schedule.py[*** Graph **]** *Ordering of tasks*
+- ***decode.py[*** DP **]** *Top Secret*
 
 ### dotnet/
 - ***HeapSort.cs**, tricky stóff*
