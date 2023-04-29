@@ -58,6 +58,7 @@
 - ***window.cpp[*** Array **]** *Sliding window baby*
 - ***MaxIncSubSeqSum.cpp[*** DP **]** *Maximum ...*
 - ***nCr.cpp[*** DP **]** *n choose r coefficients*
+- ***maze.cpp[*** Graph **]** *one of the many dfs problems*
 
 ### java/
 - maxSubArr.java
