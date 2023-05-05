@@ -59,6 +59,7 @@
 - ***MaxIncSubSeqSum.cpp[*** DP **]** *Maximum ...*
 - ***nCr.cpp[*** DP **]** *n choose r coefficients*
 - ***maze.cpp[*** Graph **]** *one of the many dfs problems*
+- ***Permutations.cpp[*** Combinatorics **]** *Lexicographic permutations*
 
 ### java/
 - maxSubArr.java
