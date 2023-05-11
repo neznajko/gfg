@@ -60,6 +60,7 @@
 - ***nCr.cpp[*** DP **]** *n choose r coefficients*
 - ***maze.cpp[*** Graph **]** *one of the many dfs problems*
 - ***Permutations.cpp[*** Combinatorics **]** *Lexicographic permutations*
+- ***kthElement.cpp[*** Searching **]** *kth element in two sorted arrays*
 
 ### java/
 - maxSubArr.java
