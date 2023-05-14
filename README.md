@@ -61,6 +61,7 @@
 - ***maze.cpp[*** Graph **]** *one of the many dfs problems*
 - ***Permutations.cpp[*** Combinatorics **]** *Lexicographic permutations*
 - ***kthElement.cpp[*** Searching **]** *kth element in two sorted arrays*
+- ***LongestComSubStr.cpp[*** DP **]** *Whatever*
 
 ### java/
 - maxSubArr.java

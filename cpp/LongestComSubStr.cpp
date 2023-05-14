@@ -1,0 +1,65 @@
+////////////////////////////////////////////////////////////////
+// Longest Common Substring
+////////////////////////////////////////////////////////////////
+// Given two strings. The task is to find the length of the 
+// longest common substring.
+////////////////////////////////////////////////////////////////
+// Example: 1
+////////////////////////////////////////////////////////////////
+// Input: S1 = "ABCDGH", S2 = "ACDGHR", n = 6, m = 6
+////////////////////////////////////////////////////////////////
+// Output: 4
+////////////////////////////////////////////////////////////////
+// Explanation: The longest common substring is "CDGH" which has 
+// length 4.
+////////////////////////////////////////////////////////////////
+// Expected Time Complexity: O(nm)
+// Expected Auxiliary Space: O(nm)
+////////////////////////////////////////////////////////////////
+# include <iostream>
+# include <string>
+# include <vector>
+# include <algorithm>
+////////////////////////////////////////////////////////////////
+using namespace std;
+////////////////////////////////////////////////////////////////
+class Solution {
+public:
+    int longestCommonSubstr
+    ( const string& s, const string& t, int n, int m );
+};
+////////////////////////////////////////////////////////////////
+int main(){
+    cout << Solution().longestCommonSubstr
+    (
+        "abc",
+        "abbc",
+        -1, -1 
+    ) << endl;
+}
+////////////////////////////////////////////////////////////////
+// Test Cases Passed:        119 / 119
+// Total Points Scored:                4 / 4
+// Your Total Score:      1110
+// Total Time Taken: 0.03
+////////////////////////////////////////////////////////////////
+// Initially was fhinking this is the next dynamic programming
+// problm, but messed't couple of times.
+////////////////////////////////////////////////////////////////
+int Solution::longestCommonSubstr
+( const string& s, const string& t, int n, int m ){
+    n = ( int ) s.length();
+    m = ( int ) t.length();
+    vector<vector<int>> aux( n + 1, vector<int>( m + 1, 0 ));
+    int lcs{};
+    for( int i{ n - 1 }; i >= 0; --i ){
+        for( int j{ m - 1 }; j >= 0; --j ){
+            if( s[ i ] == t[ j ]){
+                aux[ i ][ j ] = 1 + aux[ i + 1 ][ j + 1 ];
+                lcs = max( lcs, aux[ i ][ j ]);
+            }
+        }
+    }
+    return lcs; 
+}
+////////////////////////////////////////////////////////////////
