@@ -62,7 +62,7 @@
 - ***Permutations.cpp[*** Combinatorics **]** *Lexicographic permutations*
 - ***kthElement.cpp[*** Searching **]** *kth element in two sorted arrays*
 - ***LongestComSubStr.cpp[*** DP **]** *Whatever*
-- ***FlatList.cpp[***Linked List**]** *Stuff*
+- ***FlatList.cpp[*** Linked List **]** *Stuff*
 
 ### java/
 - maxSubArr.java
