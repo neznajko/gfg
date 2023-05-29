@@ -64,6 +64,7 @@
 - ***LongestComSubStr.cpp[*** DP **]** *Whatever*
 - ***FlatList.cpp[*** Linked List **]** *Stuff*
 - ***Factorial.cpp[*** Math **]** *Factorials of large numbers*
+- ***DeleteNode.cpp[*** Tree **]** *Deleting a node from BST*
 
 ### java/
 - maxSubArr.java
