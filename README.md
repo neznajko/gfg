@@ -176,6 +176,7 @@
 - ***single.py[*** Tree **]** *Nf single valued sub-trees*
 - ***schedule.py[*** Graph **]** *Ordering of tasks*
 - ***decode.py[*** DP **]** *Top Secret*
+- ***SubSum.py[*** DP **]** *skp and taike*
 
 ### dotnet/
 - ***HeapSort.cs**, tricky stóff*
