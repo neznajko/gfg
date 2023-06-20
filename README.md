@@ -177,6 +177,7 @@
 - ***schedule.py[*** Graph **]** *Ordering of tasks*
 - ***decode.py[*** DP **]** *Top Secret*
 - ***SubSum.py[*** DP **]** *skp and taike*
+- ***MColoring.py[*** Backtrack **]** *Painter's Time*
 
 ### dotnet/
 - ***HeapSort.cs**, tricky stóff*
