@@ -178,6 +178,7 @@
 - ***decode.py[*** DP **]** *Top Secret*
 - ***SubSum.py[*** DP **]** *skp and taike*
 - ***MColoring.py[*** Backtrack **]** *Painter's Time*
+- ***IsHeap.py[*** Tree **]** *Check vhether Binary Tree is Heap*
 
 ### dotnet/
 - ***HeapSort.cs**, tricky stóff*
