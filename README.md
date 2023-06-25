@@ -180,6 +180,7 @@
 - ***MColoring.py[*** Backtrack **]** *Painter's Time*
 - ***IsHeap.py[*** Tree **]** *Check vhether Binary Tree is Heap*
 - ***MultipleOf3.py[*** Math **]** *Check if binary number is multiple of 3*
+- ***MinNFCoins.py[*** Greedy **]** *Minimum number of coins*
 
 ### dotnet/
 - ***HeapSort.cs**, tricky stóff*
