@@ -182,6 +182,7 @@
 - ***MultipleOf3.py[*** Math **]** *Check if binary number is multiple of 3*
 - ***MinNFCoins.py[*** Greedy **]** *Minimum number of coins*
 - ***diagonal.py[*** Tree **]** *Diagonal Traversal of Binary Tree*
+- ***once.py[*** Serching **]** *Divide and Conquer*
 
 ### dotnet/
 - ***HeapSort.cs**, tricky stóff*
