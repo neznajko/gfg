@@ -183,6 +183,7 @@
 - ***MinNFCoins.py[*** Greedy **]** *Minimum number of coins*
 - ***diagonal.py[*** Tree **]** *Diagonal Traversal of Binary Tree*
 - ***once.py[*** Serching **]** *Divide and Conquer*
+- ***SubsetSums.py[*** Combinatorics **]** *Find all subset sums*
 
 ### dotnet/
 - ***HeapSort.cs**, tricky stóff*
