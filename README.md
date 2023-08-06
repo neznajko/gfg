@@ -184,6 +184,7 @@
 - ***diagonal.py[*** Tree **]** *Diagonal Traversal of Binary Tree*
 - ***once.py[*** Serching **]** *Divide and Conquer*
 - ***SubsetSums.py[*** Combinatorics **]** *Find all subset sums*
+- ***jobs.py[*** Sorting **]** *Schedule jobs*
 
 ### dotnet/
 - ***HeapSort.cs**, tricky stóff*
