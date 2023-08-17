@@ -185,6 +185,7 @@
 - ***once.py[*** Serching **]** *Divide and Conquer*
 - ***SubsetSums.py[*** Combinatorics **]** *Find all subset sums*
 - ***jobs.py[*** Sorting **]** *Schedule jobs*
+- ***Graph_Cycle.py[*** Graph **]** *Cycle Detection*
 
 ### dotnet/
 - ***HeapSort.cs**, tricky stóff*
