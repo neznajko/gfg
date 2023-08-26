@@ -185,9 +185,10 @@
 - ***once.py[*** Serching **]** *Divide and Conquer*
 - ***SubsetSums.py[*** Combinatorics **]** *Find all subset sums*
 - ***jobs.py[*** Sorting **]** *Schedule jobs*
-- ***Graph_Cycle.py[*** Graph **]** *Cycle Detection*
+- ***Graph Cycle.py[*** Graph **]** *Cycle Detection*
 - ***boundary.py[*** Tree **]** *boundorder*
 - ***pairsumdiv.py[*** Hashing **]** *Array Pair Sum Divisibility Problem*
+- ***countWays.py[*** haHa **]** *Count ways to N-th stair*
 
 ### dotnet/
 - ***HeapSort.cs**, tricky stóff*
