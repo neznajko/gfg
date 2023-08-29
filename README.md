@@ -66,6 +66,7 @@
 - ***Factorial.cpp[*** Math **]** *Factorials of large numbers*
 - ***DeleteNode.cpp[*** Tree **]** *Deleting a node from BST*
 - ***FloydWarshall.cpp[*** Graph **]** *All shortest distances*
+- ***NonRepeating.cpp[*** Searching **]** *Find non repeating numbers*
 
 ### java/
 - maxSubArr.java
