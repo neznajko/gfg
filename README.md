@@ -189,6 +189,7 @@
 - ***boundary.py[*** Tree **]** *boundorder*
 - ***pairsumdiv.py[*** Hashing **]** *Array Pair Sum Divisibility Problem*
 - ***countWays.py[*** haHa **]** *Count ways to N-th stair*
+- ***mindist.py[*** Tree **]** *Min distance in Binary Tree*
 
 ### dotnet/
 - ***HeapSort.cs**, tricky stóff*
