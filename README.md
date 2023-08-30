@@ -183,7 +183,7 @@
 - ***MultipleOf3.py[*** Math **]** *Check if binary number is multiple of 3*
 - ***MinNFCoins.py[*** Greedy **]** *Minimum number of coins*
 - ***diagonal.py[*** Tree **]** *Diagonal Traversal of Binary Tree*
-- ***once.py[*** Serching **]** *Divide and Conquer*
+- ***once.py[*** Searching **]** *Divide and Conquer*
 - ***SubsetSums.py[*** Combinatorics **]** *Find all subset sums*
 - ***jobs.py[*** Sorting **]** *Schedule jobs*
 - ***Graph Cycle.py[*** Graph **]** *Cycle Detection*
@@ -191,6 +191,7 @@
 - ***pairsumdiv.py[*** Hashing **]** *Array Pair Sum Divisibility Problem*
 - ***countWays.py[*** haHa **]** *Count ways to N-th stair*
 - ***mindist.py[*** Tree **]** *Min distance in Binary Tree*
+- ***GoldMine.py[*** Searching **]** *Gold Mine Problem*
 
 ### dotnet/
 - ***HeapSort.cs**, tricky stóff*
