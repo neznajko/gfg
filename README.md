@@ -192,6 +192,7 @@
 - ***countWays.py[*** haHa **]** *Count ways to N-th stair*
 - ***mindist.py[*** Tree **]** *Min distance in Binary Tree*
 - ***GoldMine.py[*** Searching **]** *Gold Mine Problem*
+- ***flatten.py[*** Tree **]** *Flatten binary tree to linked list*
 
 ### dotnet/
 - ***HeapSort.cs**, tricky stóff*
