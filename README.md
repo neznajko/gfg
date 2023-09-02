@@ -193,6 +193,7 @@
 - ***mindist.py[*** Tree **]** *Min distance in Binary Tree*
 - ***GoldMine.py[*** Searching **]** *Gold Mine Problem*
 - ***flatten.py[*** Tree **]** *Flatten binary tree to linked list*
+- ***Asteroid.py[*** Stack **]** *Asteroid Collision*
 
 ### dotnet/
 - ***HeapSort.cs**, tricky stóff*
