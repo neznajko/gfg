@@ -195,6 +195,7 @@
 - ***flatten.py[*** Tree **]** *Flatten binary tree to linked list*
 - ***Asteroid.py[*** Stack **]** *Asteroid Collision*
 - ***MinHeights2.py[*** Sorting **]** *Tower Heights*
+- ***Cycle_Detect.py[*** Graph **]** *Direct Graph Cycle Detection*
 
 ### dotnet/
 - ***HeapSort.cs**, tricky stóff*
