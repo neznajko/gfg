@@ -194,6 +194,7 @@
 - ***GoldMine.py[*** Searching **]** *Gold Mine Problem*
 - ***flatten.py[*** Tree **]** *Flatten binary tree to linked list*
 - ***Asteroid.py[*** Stack **]** *Asteroid Collision*
+- ***MinHeights2.py[*** Sorting **]** *Tower Heights*
 
 ### dotnet/
 - ***HeapSort.cs**, tricky stóff*
