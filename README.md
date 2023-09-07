@@ -196,6 +196,7 @@
 - ***Asteroid.py[*** Stack **]** *Asteroid Collision*
 - ***MinHeights2.py[*** Sorting **]** *Tower Heights*
 - ***Cycle_Detect.py[*** Graph **]** *Direct Graph Cycle Detection*
+- ***rasen.py[*** misc **]** *spirally traversing a matrix*
 
 ### dotnet/
 - ***HeapSort.cs**, tricky stóff*
