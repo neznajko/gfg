@@ -198,6 +198,7 @@
 - ***Cycle_Detect.py[*** Graph **]** *Direct Graph Cycle Detection*
 - ***rasen.py[*** misc **]** *spirally traversing a matrix*
 - ***first_last.py[*** searching **]** *binary search*
+- ***chikara.py[*** math **]** *modular arithmetics*
 
 ### dotnet/
 - ***HeapSort.cs**, tricky stóff*
