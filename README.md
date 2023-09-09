@@ -199,6 +199,7 @@
 - ***rasen.py[*** misc **]** *spirally traversing a matrix*
 - ***first_last.py[*** searching **]** *binary search*
 - ***chikara.py[*** math **]** *modular arithmetics*
+- ***botvw.py[*** tree **]** *bottom view of tree*
 
 ### dotnet/
 - ***HeapSort.cs**, tricky stóff*
