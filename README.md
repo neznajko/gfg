@@ -200,6 +200,7 @@
 - ***first_last.py[*** searching **]** *binary search*
 - ***chikara.py[*** math **]** *modular arithmetics*
 - ***botvw.py[*** tree **]** *bottom view of tree*
+- ***alt.py[*** misc **]** *longest alternating subsequence*
 
 ### dotnet/
 - ***HeapSort.cs**, tricky stóff*
