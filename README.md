@@ -202,6 +202,7 @@
 - ***botvw.py[*** tree **]** *bottom view of tree*
 - ***alt.py[*** misc **]** *longest alternating subsequence*
 - ***subtreesum.py[*** tree **]** *subtree sum*
+- ***insert_delete.py[*** dp **]** *edit distance*
 
 ### dotnet/
 - ***HeapSort.cs**, tricky stóff*
