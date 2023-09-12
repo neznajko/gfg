@@ -203,6 +203,7 @@
 - ***alt.py[*** misc **]** *longest alternating subsequence*
 - ***subtreesum.py[*** tree **]** *subtree sum*
 - ***insert_delete.py[*** dp **]** *edit distance*
+- ***odd_occurrence.py[*** searching **]** *find elements with odd count*
 
 ### dotnet/
 - ***HeapSort.cs**, tricky stóff*
