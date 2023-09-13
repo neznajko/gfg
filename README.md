@@ -204,6 +204,7 @@
 - ***subtreesum.py[*** tree **]** *subtree sum*
 - ***insert_delete.py[*** dp **]** *edit distance*
 - ***odd_occurrence.py[*** searching **]** *find elements with odd count*
+- ***binary_maze.py[*** searching **]** *B F S*
 
 ### dotnet/
 - ***HeapSort.cs**, tricky stóff*
