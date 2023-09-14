@@ -67,6 +67,7 @@
 - ***DeleteNode.cpp[*** Tree **]** *Deleting a node from BST*
 - ***FloydWarshall.cpp[*** Graph **]** *All shortest distances*
 - ***NonRepeating.cpp[*** Searching **]** *Find non repeating numbers*
+- ***GeekAndTheString.C[*** Stack **]** *Removing Duplicates*
 
 ### java/
 - maxSubArr.java
