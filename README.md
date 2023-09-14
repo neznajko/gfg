@@ -68,6 +68,7 @@
 - ***FloydWarshall.cpp[*** Graph **]** *All shortest distances*
 - ***NonRepeating.cpp[*** Searching **]** *Find non repeating numbers*
 - ***GeekAndTheString.C[*** Stack **]** *Removing Duplicates*
+- ***carpet.cpp[*** math **]** *folding carpet into box*
 
 ### java/
 - maxSubArr.java
