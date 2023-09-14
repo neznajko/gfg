@@ -207,6 +207,7 @@
 - ***insert_delete.py[*** dp **]** *edit distance*
 - ***odd_occurrence.py[*** searching **]** *find elements with odd count*
 - ***binary_maze.py[*** searching **]** *B F S*
+- ***coloring.py[*** misc **]** *coloring houses*
 
 ### dotnet/
 - ***HeapSort.cs**, tricky stóff*
