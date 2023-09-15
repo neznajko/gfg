@@ -208,6 +208,7 @@
 - ***odd_occurrence.py[*** searching **]** *find elements with odd count*
 - ***binary_maze.py[*** searching **]** *B F S*
 - ***coloring.py[*** misc **]** *coloring houses*
+- ***next_greater.py[*** stack **]** *next greater element*
 
 ### dotnet/
 - ***HeapSort.cs**, tricky stóff*
