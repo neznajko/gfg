@@ -211,6 +211,7 @@
 - ***next_greater.py[*** stack **]** *next greater element*
 - ***largest_subtree_sum.py[*** tree **]** *_in_a_tree*
 - ***leafs.py[*** Tree **]** *a nice problem*
+- ***sort_stack.py[*** Stack **]** *pushing and popping*
 
 ### dotnet/
 - ***HeapSort.cs**, tricky stóff*
