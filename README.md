@@ -210,6 +210,7 @@
 - ***coloring.py[*** misc **]** *coloring houses*
 - ***next_greater.py[*** stack **]** *next greater element*
 - ***largest_subtree_sum.py[*** tree **]** *_in_a_tree*
+- ***leafs.py[*** Tree **]** *a nice problem*
 
 ### dotnet/
 - ***HeapSort.cs**, tricky stóff*
