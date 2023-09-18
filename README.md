@@ -212,6 +212,7 @@
 - ***largest_subtree_sum.py[*** tree **]** *_in_a_tree*
 - ***leafs.py[*** Tree **]** *a nice problem*
 - ***sort_stack.py[*** Stack **]** *pushing and popping*
+- ***reverse_stack.py[*** Recursion **]** *ぬの*
 
 ### dotnet/
 - ***HeapSort.cs**, tricky stóff*
