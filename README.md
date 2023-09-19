@@ -213,6 +213,7 @@
 - ***leafs.py[*** Tree **]** *a nice problem*
 - ***sort_stack.py[*** Stack **]** *pushing and popping*
 - ***reverse_stack.py[*** Recursion **]** *ぬの*
+- ***deSerialize.py[*** Queue **]** *(de)serialize binary tree*
 
 ### dotnet/
 - ***HeapSort.cs**, tricky stóff*
