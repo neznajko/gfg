@@ -214,6 +214,7 @@
 - ***sort_stack.py[*** Stack **]** *pushing and popping*
 - ***reverse_stack.py[*** Recursion **]** *ぬの*
 - ***deSerialize.py[*** Queue **]** *(de)serialize binary tree*
+- ***flibpits.py[*** Dynamo **]** *flipping bits in sub-array*
 
 ### dotnet/
 - ***HeapSort.cs**, tricky stóff*
