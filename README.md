@@ -215,6 +215,7 @@
 - ***reverse_stack.py[*** Recursion **]** *ぬの*
 - ***deSerialize.py[*** Queue **]** *(de)serialize binary tree*
 - ***flibpits.py[*** Dynamo **]** *flipping bits in sub-array*
+- ***longest_path.py[*** Tree **]** *longest path max sum*
 
 ### dotnet/
 - ***HeapSort.cs**, tricky stóff*
