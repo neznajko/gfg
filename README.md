@@ -216,6 +216,7 @@
 - ***deSerialize.py[*** Queue **]** *(de)serialize binary tree*
 - ***flibpits.py[*** Dynamo **]** *flipping bits in sub-array*
 - ***longest_path.py[*** Tree **]** *longest path max sum*
+- ***mostfr.py[*** Hash **]** *most frequent least fyorst word*
 
 ### dotnet/
 - ***HeapSort.cs**, tricky stóff*
