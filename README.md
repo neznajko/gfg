@@ -217,6 +217,7 @@
 - ***flibpits.py[*** Dynamo **]** *flipping bits in sub-array*
 - ***longest_path.py[*** Tree **]** *longest path max sum*
 - ***mostfr.py[*** Hash **]** *most frequent least fyorst word*
+- ***subarrdiv.py[*** Hash **]** *max sub-array sum divisible by k*
 
 ### dotnet/
 - ***HeapSort.cs**, tricky stóff*
