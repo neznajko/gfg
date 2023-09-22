@@ -218,6 +218,7 @@
 - ***longest_path.py[*** Tree **]** *longest path max sum*
 - ***mostfr.py[*** Hash **]** *most frequent least fyorst word*
 - ***subarrdiv.py[*** Hash **]** *max sub-array sum divisible by k*
+- ***maxrectsum.py[*** Prefix-Sum **]** *max sub-matrix sum*
 
 ### dotnet/
 - ***HeapSort.cs**, tricky stóff*
