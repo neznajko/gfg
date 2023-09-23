@@ -69,6 +69,7 @@
 - ***NonRepeating.cpp[*** Searching **]** *Find non repeating numbers*
 - ***GeekAndTheString.C[*** Stack **]** *Removing Duplicates*
 - ***carpet.cpp[*** math **]** *folding carpet into box*
+- ***Ancestor.cpp[*** Tree **]** *kth ancestor*
 
 ### java/
 - maxSubArr.java
