@@ -221,6 +221,7 @@
 - ***mostfr.py[*** Hash **]** *most frequent least fyorst word*
 - ***subarrdiv.py[*** Hash **]** *max sub-array sum divisible by k*
 - ***maxrectsum.py[*** Prefix-Sum **]** *max sub-matrix sum*
+- ***maxdif.py[*** Stack **]** *max blah-blah-blah dif*
 
 ### dotnet/
 - ***HeapSort.cs**, tricky stóff*
