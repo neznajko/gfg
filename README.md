@@ -70,6 +70,7 @@
 - ***GeekAndTheString.C[*** Stack **]** *Removing Duplicates*
 - ***carpet.cpp[*** math **]** *folding carpet into box*
 - ***Ancestor.cpp[*** Tree **]** *kth ancestor*
+- ***setbits.cpp[*** Math **]** *count total set bits for O(1)*
 
 ### java/
 - maxSubArr.java
