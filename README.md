@@ -224,6 +224,7 @@
 - ***maxrectsum.py[*** Prefix-Sum **]** *max sub-matrix sum*
 - ***maxdif.py[*** Stack **]** *max blah-blah-blah dif*
 - ***good_sub_trees.py[*** Tree **]** *You are given a root node ...*
+- ***remove_the_balls.py[*** Stack **]** *faking linked list with stack*
 
 ### dotnet/
 - ***HeapSort.cs**, tricky stóff*
