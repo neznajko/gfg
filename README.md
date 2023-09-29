@@ -226,6 +226,7 @@
 - ***good_sub_trees.py[*** Tree **]** *You are given a root node ...*
 - ***remove_the_balls.py[*** Stack **]** *faking linked list with stack*
 - ***rmrv.py[*** Stack **]** *remove and reverse*
+- ***laptops.py[*** Sorting **]** *counting intervals' cross sections*
 
 ### dotnet/
 - ***HeapSort.cs**, tricky stóff*
