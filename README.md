@@ -227,6 +227,7 @@
 - ***remove_the_balls.py[*** Stack **]** *faking linked list with stack*
 - ***rmrv.py[*** Stack **]** *remove and reverse*
 - ***laptops.py[*** Sorting **]** *counting intervals' cross sections*
+- ***magzLevl.py[*** Searching **]** *magzimum level value*
 
 ### dotnet/
 - ***HeapSort.cs**, tricky stóff*
