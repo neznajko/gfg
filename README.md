@@ -228,6 +228,7 @@
 - ***rmrv.py[*** Stack **]** *remove and reverse*
 - ***laptops.py[*** Sorting **]** *counting intervals' cross sections*
 - ***magzLevl.py[*** Searching **]** *magzimum level value*
+- ***floor.py[*** Tree **]** *key's floor in bst*
 
 ### dotnet/
 - ***HeapSort.cs**, tricky stóff*
