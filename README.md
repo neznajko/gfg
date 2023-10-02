@@ -97,6 +97,7 @@
 - ***mxmm.java[*** Tree **]** *mxmm sum leaf to root path*
 - ***Triplet.java[*** Sorting **]** *Triplet sum in array*
 - ***safepos.java[*** List **]** *The Josephus Problem*
+- ***deleteKey.java[*** List **]** *Dancing Links*
 
 ### javascript/
 - scc.js
