@@ -229,6 +229,7 @@
 - ***laptops.py[*** Sorting **]** *counting intervals' cross sections*
 - ***magzLevl.py[*** Searching **]** *magzimum level value*
 - ***floor.py[*** Tree **]** *key's floor in bst*
+- ***min_magz_heap.py[*** Heap **]** *convyort min to magz heap*
 
 ### dotnet/
 - ***HeapSort.cs**, tricky stóff*
