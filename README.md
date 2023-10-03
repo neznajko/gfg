@@ -98,6 +98,7 @@
 - ***Triplet.java[*** Sorting **]** *Triplet sum in array*
 - ***safepos.java[*** List **]** *The Josephus Problem*
 - ***deleteKey.java[*** List **]** *Dancing Links*
+- ***grid_path_2.java[*** Dynamic Programming **]** *all possible paths*
 
 ### javascript/
 - scc.js
