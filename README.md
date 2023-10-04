@@ -99,6 +99,7 @@
 - ***safepos.java[*** List **]** *The Josephus Problem*
 - ***deleteKey.java[*** List **]** *Dancing Links*
 - ***grid_path_2.java[*** Dynamic Programming **]** *all possible paths*
+- ***kodds.java[*** Array **]** *sub-arrays with k odd numbers*
 
 ### javascript/
 - scc.js
