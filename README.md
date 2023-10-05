@@ -71,6 +71,7 @@
 - ***carpet.cpp[*** math **]** *folding carpet into box*
 - ***Ancestor.cpp[*** Tree **]** *kth ancestor*
 - ***setbits.cpp[*** Math **]** *count total set bits for O(1)*
+- ***redundant.cpp[*** Stack **]** *check for unnecessary parenthesis*
 
 ### java/
 - maxSubArr.java
