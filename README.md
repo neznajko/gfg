@@ -72,6 +72,7 @@
 - ***Ancestor.cpp[*** Tree **]** *kth ancestor*
 - ***setbits.cpp[*** Math **]** *count total set bits for O(1)*
 - ***redundant.cpp[*** Stack **]** *check for unnecessary parenthesis*
+- ***maxand.cpp[*** Bits **]** *max bitwise and pair*
 
 ### java/
 - maxSubArr.java
