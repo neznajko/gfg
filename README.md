@@ -235,6 +235,7 @@
 - ***magzLevl.py[*** Searching **]** *magzimum level value*
 - ***floor.py[*** Tree **]** *key's floor in bst*
 - ***min_magz_heap.py[*** Heap **]** *convyort min to magz heap*
+- ***hit_most_balloons.py[*** Hash **]** *on infinite grid*
 
 ### dotnet/
 - ***HeapSort.cs**, tricky stóff*
