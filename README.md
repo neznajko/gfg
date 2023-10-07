@@ -237,6 +237,7 @@
 - ***floor.py[*** Tree **]** *key's floor in bst*
 - ***min_magz_heap.py[*** Heap **]** *convyort min to magz heap*
 - ***hit_most_balloons.py[*** Hash **]** *on infinite grid*
+- ***remove_duplicates.py[*** Linked List **]** *rm dups*
 
 ### dotnet/
 - ***HeapSort.cs**, tricky stóff*
