@@ -238,6 +238,7 @@
 - ***min_magz_heap.py[*** Heap **]** *convyort min to magz heap*
 - ***hit_most_balloons.py[*** Hash **]** *on infinite grid*
 - ***remove_duplicates.py[*** Linked List **]** *rm dups*
+- ***Twitter.py[*** Stuff **]** *design Twitter*
 
 ### dotnet/
 - ***HeapSort.cs**, tricky stóff*
