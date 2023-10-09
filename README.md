@@ -127,6 +127,7 @@
 - ***consTree.js[*** Tree **]** *Construct Tree from Inorder & Preorder*
 - ***SSLBST.js[*** Tree **]** *Sorted Link List to BST*
 - ***greatTree.js[*** Tree **]** *Convyort BST to GST*
+- ***divpairs.js[*** Hash **]** *count pairs divisible by k*
 
 ### python/
 - nodes.py
