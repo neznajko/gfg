@@ -240,6 +240,7 @@
 - ***hit_most_balloons.py[*** Hash **]** *on infinite grid*
 - ***remove_duplicates.py[*** Linked List **]** *rm dups*
 - ***Twitter.py[*** Stuff **]** *design Twitter*
+- ***inorder.py[*** Tree **]** *not recursive*
 
 ### dotnet/
 - ***HeapSort.cs**, tricky stóff*
