@@ -74,6 +74,7 @@
 - ***redundant.cpp[*** Stack **]** *check for unnecessary parenthesis*
 - ***maxand.cpp[*** Bits **]** *max bitwise and pair*
 - ***modify_the_list.cpp[*** List **]** *Modifying Single Linked List*
+- ***QuickSort.cpp[*** List **]** *Quick Sort on a Single Linked List*
 
 ### java/
 - maxSubArr.java
