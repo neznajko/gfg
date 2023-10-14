@@ -244,6 +244,7 @@
 - ***Twitter.py[*** Stuff **]** *design Twitter*
 - ***inorder.py[*** Tree **]** *not recursive*
 - ***nodelevel.py[*** Graph **]** *bfs*
+- ***mintime.py[*** Stuff **]** *nice problem*
 
 ### dotnet/
 - ***HeapSort.cs**, tricky stóff*
