@@ -245,6 +245,7 @@
 - ***inorder.py[*** Tree **]** *not recursive*
 - ***nodelevel.py[*** Graph **]** *bfs*
 - ***mintime.py[*** Stuff **]** *nice problem*
+- ***presuc.py[*** Tree **]** *BST*
 
 ### dotnet/
 - ***HeapSort.cs**, tricky stóff*
