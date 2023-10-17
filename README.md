@@ -246,6 +246,7 @@
 - ***nodelevel.py[*** Graph **]** *bfs*
 - ***mintime.py[*** Stuff **]** *nice problem*
 - ***presuc.py[*** Tree **]** *BST*
+- ***nearest_tower.py[*** Stack **]** *nearest shorter tower*
 
 ### dotnet/
 - ***HeapSort.cs**, tricky stóff*
