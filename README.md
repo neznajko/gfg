@@ -248,6 +248,7 @@
 - ***mintime.py[*** Stuff **]** *nice problem*
 - ***presuc.py[*** Tree **]** *BST*
 - ***nearest_tower.py[*** Stack **]** *nearest shorter tower*
+- ***bestnode.py[*** Tree **]** *finding best node to leaf path*
 
 ### dotnet/
 - ***HeapSort.cs**, tricky stóff*
