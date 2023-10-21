@@ -107,6 +107,7 @@
 - ***grid_path_2.java[*** Dynamic Programming **]** *all possible paths*
 - ***kodds.java[*** Array **]** *sub-arrays with k odd numbers*
 - ***shortestPath.java[*** Graph **]** *bfs*
+- ***uniqpaths.java[*** DP **]** *count number of unique paths*
 
 ### javascript/
 - scc.js
