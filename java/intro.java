@@ -1,0 +1,159 @@
+////////////////////////////////////////////////////////
+////////////////////////////////////////////////////////
+////////////////////////////////////////////////////////
+////////////////////////////////////////////////////////
+//                                   ///////////////////
+//              * * * *              ///////////////////
+//    * * * *   *     *   * * * *    ///////////////////
+//    *     *   *     *   *     *    ///////////////////
+//    *     *   *     *   *     *    ///////////////////
+//    *     * * *     * * *     *    ///////////////////
+//    *                         *    ///////////////////
+//    * * * * * *     * * * * * *    ///////////////////
+//              *     *              ///////////////////
+//    * * * *   *     *   * * * *    ///////////////////
+//    *     *   *     *   *     *    ///////////////////
+//    *     *   *     *   *     *    ///////////////////
+//    *     * * *     * * *     *    ///////////////////
+//    *                         *    ///////////////////
+//    * * * * * * * * * * *     *    ///////////////////
+//    E X I T             * * * *    ///////////////////
+//                                                    
+////////////////////////////////////////////////////////
+////////////////////////////////////////////////////////
+////////////////////////////////////////////////////////
+////////////////////////////////////////////////////////
+// Introduction to DP, 出 (で, de)
+////////////////////////////////////////////////////////
+// Geek is learning data structures, and he recently
+// learned about the top-down and bottom-up dynamic
+// programming approaches. Geek is having trouble
+// telling them apart from one another.
+////////////////////////////////////////////////////////
+// When given an integer n, where n is based on a
+// 0-based index, find the nth Fibonacci number. Every
+// ith number in the series equals the sum of the
+// (i-1)th and (i-2)th numbers, where the first and
+// second numbers are specified as 0 and 1,
+// respectively. For the given issue, code both top-down
+// and bottom-up approaches. As the answer might be
+// large, return the final answer modulo 10^9 + 7
+////////////////////////////////////////////////////////
+// Input: n = 5, Output: 5
+// Explanation: 0,1,1,2,3,5
+////////////////////////////////////////////////////////
+// Input: n = 6, Output: 8
+// Explanation: 0,1,1,2,3,5,8
+////////////////////////////////////////////////////////
+// 1 <= n <= 1000
+////////////////////////////////////////////////////////
+// Expected Time Complexity: O(n)
+// Expected Auxiliary Space: O(n)
+////////////////////////////////////////////////////////
+// Der untere Kniescheibenrand (= Lage des Kniespaltes, 
+// starker schwarzer Pfeil) markiert die Mitte der
+// Unterlange (= ein Korperviertel).
+////////////////////////////////////////////////////////
+// Lage///////////// scheibe////////////////////////////
+// p___///////////// d######/////////rand //////////////
+// o___Spalt /////// i######/////////~~~e //////////////
+// s___\\\\j /////// s####starker ///~~~d //////////////
+// i___\\\\o /////// k####======s ///~~~g //////////////
+// t___\\\\i /////////////======t ///~~~e //////////////
+// i___\\\\n /////////////======r //////////////////////
+// o___\\\\t /////////////======o //////////////////////
+// n___///////////////////======n //////////////////////
+//////////////////////////======g //////////////////////
+////////////////////////////////////////////////////////
+////////////////////////////////////////////////////////
+import java.util.*;import java.io.*;
+////////////////////////////////////////////////////////
+// salad ///////////////////////////// die Pommes frites
+// fish ///////////////////////////////////// der Kuchen
+// chips ///////////////////////////////// die Würstchen
+// cake ////////////////////////////////////// der Fisch
+// sausages ////////////////////////////////////// essen
+// spaghetti ///////////////////////////////// der Salat
+// to eat //////////////////////////////////// die Pizza
+// pizza ///////////////////////////////// die Spaghetti
+// hamburger ////////////////////////////////// ich auch
+// me too //////////////////////////////// die Hamburger
+class GFG{public static void main(String[]args)throws 
+IOException{Scanner sc=new Scanner(System.in); int T=
+sc.nextInt();while(T-->0){int n=sc.nextInt(); Solution
+obj=new Solution();long topDownans=obj.topDown(n);long
+bottomUpans=obj.bottomUp(n);if(topDownans!=bottomUpans)
+System.out.println(-1);else System.out.println(
+topDownans);}}}
+////////////////////////////////////////////////////////
+////////////////////////////////////////////////////////
+////////////////////////////////////////////////////////
+/////////////////////////////////////////////[ GPT-3.5 ]
+//// In the depths of the ancient forest,    
+////    > where the tall, ancient trees swayed in the  -
+////      gentle breeze                       
+////    > and the dappled sunlight danced upon the     -
+////      forest floor,                         
+////         - a young explorer, full of wonder,  
+////         - embarked on an epic adventure      
+////         - to discover the hidden treasures of the -
+////           woodland realm,                      
+////         - armed with nothing more than          
+////`````````````a) a sturdy backpack,````````````````
+////             b) a trusty map,                     `
+////             c) and a heart brimming with courage. `
+////////////////////////////////////////////////////////
+class Solution {
+    static final long MOD = 1000000007;
+    long cache[];
+    void cons( int n ){
+        cache = new long[n+1];
+        cache[0] = 0;
+        cache[1] = 1;
+        for( int j = 2; j <= n; ++j ){
+            cache[j] = -1;
+        }
+    }
+    long dp( int n ){
+        if( cache[n] != -1 ){
+            return cache[n];
+        }
+        return cache[n] = ( dp( n-1 )+dp( n-2 ))%MOD;
+    }
+    long topDown( int n ){
+        cons( n );
+        return dp( n );
+    }
+    long bottomUp( int n ){
+        long fib[] = new long[n+1];
+        fib[1] = 1;
+        for( int j = 2; j <= n; ++j ){
+            fib[j] = ( fib[j-1]+fib[j-2] )%MOD;
+        }
+        return fib[n];
+    }
+}
+////////////////////////////////////////////////////////
+////////////////////////////////////////////////////////
+/////////////|//////////////////////////////////////////
+// 1. 541    |             | ごひゃくよんじゅういち
+// 2. 2,736  |                      | にせんななひゃくさんじゅうろく
+// 3. 8,900  |      | はっせんきゅうひゃく
+// 4. 12,345 |                    | いちまんにせんさんびゃくよんじゅうご
+/////////////|//////////////////////////////////////////
+////////////////////////////////////////////////////////
+////////////////////////////////////////////////////////
+// yasai                                       vegetable やさい 
+// enpitsu                                        pencil えんぴつ
+// kasa                                         umbrella かさ
+// kaban                                             bag かばん
+// kutsu                                           shoes くつ
+// saifu                                          wallet さいふ
+////////////////////////////////////////////////////////
+////////////////////////////////////////////////////////
+////////////////////////////////////////////////////////
+////////////////////////////////////////////////////////
+// Test Cases Passed:                          310 / 310
+// Total Points Scored:                            4 / 4
+// Your Total Score:                                1446
+// Total Time Taken:                                0.21
