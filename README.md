@@ -78,7 +78,7 @@
 - ***MergeSort.cpp[*** List **]** *Merge Sort on a Doubly Linked List*
 - ***samelevel.cpp[*** List **]** *Linking same level nodes*
 - ***mailSystemDesign.cpp[*** List **]** *Populate Mars!*
-
+- ***conse.cpp[*** Bits **]** *consecutive bits*
 
 ### java/
 - maxSubArr.java
