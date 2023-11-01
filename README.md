@@ -79,6 +79,7 @@
 - ***samelevel.cpp[*** List **]** *Linking same level nodes*
 - ***mailSystemDesign.cpp[*** List **]** *Populate Mars!*
 - ***conse.cpp[*** Bits **]** *consecutive bits*
+- ***nonconseq.cpp[*** Math **]** *non consecutive bits*
 
 ### java/
 - maxSubArr.java
