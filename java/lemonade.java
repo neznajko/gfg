@@ -1,0 +1,148 @@
+////////========________********--------%%%%%%%%        >>>>>>>>
+////////////////////////////////////////////////////////////////
+////////////////////////////////////////////////////////////////
+////////////////////////////////////////////////////////////////
+////////////////////////////////////////////////////////////////
+////////////////88888888________--------%%%%%%%%////////////////
+////////////////88888888________--------%%%%%%%%////////////////
+////////////////88888888_______   ------%%%%%%%%////////////////
+////////////////88888888_______   ------%%%%%%%%////////////////
+////////////////88888888_______   ------%%%%%%%%////////////////
+////////////////8888888                   %%%%%%////////////////
+////////////////88888888______     -----%%%%%%%%////////////////
+////////////////88888888_____   -   ----%%%%%%%%////////////////
+///////////////L88888888____   _--   ---%%%%%%%%////////////////
+///////////////a88888888__   ___----   -%%%%%%%%////////////////
+///////////////r8888888   ______-------   %%%%%%////////////////
+///////////////g88888888________--------%%%%%%%%////////////////
+///////////////e88888888________--------%%%%%%%%////////////////
+//////////////////////////////////////////////////////////////// 
+//////////////////////////////////////////////////////////////// 
+//////////////////////////////////////////////////////////////// 
+//////////////////////////////////////////////////////////////// 
+////////////////////////////////////////////////////////////////
+// Lemonade Change, 大、ダイ
+///////////////////////////          ///////////////////////////
+// Youu aree an owner of //          // lemonadee iisland, eeach
+// lemonadeee costss $5. // oo       // Customers aaree standing
+// in aaa queuee to bbuy ////////////// from you aand oorder one
+// at aa time (in the order specified by givenn arrayy bills[]).
+// Each customer wwill only buy one lemonade and pay with either
+// a $5, $10, or $20 bill. You  must pprovide the correct change
+// to each ccustomer so tthat the nett transaction iiss that the
+// customer pays $5.   ..
+/////////////////////////                            ///////////
+// NOTE: AAt ffirst, you ////                    //// doooo nnot 
+// have any bbill to provide ////        ..  //// changes  with.
+// You can provide changes fromm ////    //// the bills that you
+// get from tthe previous customers. //// Given an integer array
+// bills oof sizee NN wheree bills [ii]] is tthee billl the iith 
+// customerr pays, return true if you can provide every customer
+// with tttttheeeee correct cccchange, oooorr falsee ootherwise.
+////////////////////////////////////////////////////////////////
+// Input:: N === 5,, billss = { 5, 5, 5, 10, 20 }} Output: TTrue
+// Explanation: FFrom the first 3 customers, we collect three $5
+// bills in oorder.. Fromm the fourth customer, we collect a $10
+// bill andd give back a $5. FFrom the fifth customer, we give a
+// $10 bill aand a $5 bbill. Sincee all ccustomers ggot ccorrect
+// change we return true. //////////////////////////////////////
+// Expected Time Complexity: O(N)
+// Expected Auxiliary Space: O(1)
+////////////////////////////////////////////////////////////////
+// 1 ≤ N ≤ 10^5
+// bills[i] contains only {5, 10, 20}
+////////////////////////////////////////////////////////////////
+// .. (= Oberschenkellänge), eine auf dem Boden Sitzende um die
+// Hälfte ihrer Gesamthöhe.
+//                          ,        `        _        "
+// schenkel - leg   schen"el sc,enkel-schen'el sc`enkel'schen/el 
+// boden ---- floor boden ,oden b-den bo'en bod`n bode" boden,boden 
+// gesamt --- total gesamt gesamt gesamt gesamt gesamt gesamt gesamt 
+////////////////////////////////////////////////////////////////
+////////////////////////////////////////////////////////////////
+////////////////////////////////////////////////////////////////
+////////////////////////////////////////////////////////////////
+////////////////////////////////////////////////////////////////
+// machen` ` ` ` ` ` ` ` ` ` ` ` ` ` ` ` ` ` ` ` ` ` ` ` ` to do
+// malen, , , , , , , , , , , , , , , , , , , , , , , , to paint
+// kochen' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' to cook
+// basteln" " " " " " " " " " " " " " " " " " " " " " " to craft
+// tanzen: : : : : : : : : : : : : : : : : : : : : : : :to dance
+// lesen \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ to read
+// fernsehen/ / / / / / / / / / / / / / / / / / / / /to watch TV
+////////////////////////////////////////////////////////////////
+import java.util.*;
+import java.io.*;
+////////////////////////////////////////////////////////////////
+////////////////////////////////////////////////////////////////
+////////////////////////////////////////////////////////////////
+////////////////////////////////////////////////////////////////
+////////////////////////////////////////////////////////////////
+////////////////////////////////////////////////////////////////
+////////////////////////////////////////////////////////////////
+////////////////////////////////////////////////////////////////
+////////////////////////////////////////////////////////////////
+////////////////////////////////////////////////////////////////
+class GFG{public static void main(String[           ]args)throws 
+IOException{Scanner sc=new Scanner(System.in);int T=sc.nextInt()
+;while(T-->0){int n=sc.nextInt();int a[]=new int[n];for(int i=0;
+i<n;i++){a[i]=sc.nextInt();} Solution obj=new Solution();boolean
+ans=obj.lemonadeChange( n, a );System.out.println( ans ? "True":
+"False");}}}////////////////////////////////////////////////////
+class Solution {
+    static final int FIVE      = 0;
+    static final int TEN       = 1;
+    static final int TWENTY    = 2;
+    static final int BILLTYPES = 3;
+    int change[] = new int[ BILLTYPES ];
+    int get_type( int bill ){
+        return bill/10;
+    }
+    boolean bill_service( int bill ){
+        int type = get_type( bill );
+        ++change[type];
+        if( type == FIVE ) return true;
+        if( change[FIVE] == 0 ) return false;
+        --change[FIVE];
+        if( type == TEN ) return true;
+        // TWENTY
+        if( change[TEN] > 0 ){
+            --change[TEN];
+            return true;
+        }
+        if( change[FIVE] < 2 ) return false;
+        change[FIVE] -= 2;
+        return true;
+    }
+    boolean lemonadeChange( int n, int bills[ ]){
+        for( int j = 0; j < n; ++j ){
+            if( bill_service( bills[j])) continue;
+            return false;
+        }
+        return true;
+    }
+}
+////////////////////////////////////////////////////////////////
+////////////////////////////////////////////////////////////////
+////////////////////////////////////////////////////////////////
+////////////////////////////////////////////////////////////////
+// 1. 541    ごひゃくよんじゅういち
+// 2. 2,736  にせんななひゃくさんじゅうろく
+// 3. 8,900  はっせんきゅうひゃく
+// 4. 12,345 いちまんにせんさんびゃくよんじゅうご
+////////////////////////////////////////////////////////////////
+// Newspaper: ¥160 Bicycle: ¥24,000 Bag: ¥3,600
+// 1. Q? じてんしゃは　いくらですか。
+//    A: にまんよんせんえんです。 
+// 2. Q: かばんは　いくらですか。
+//    A? さんせんろっひゃくえんです。
+// 3. Q: しんぶんは　いくらですか。
+//    A? ひゃくろくじゅうえんです。
+////////////////////////////////////////////////////////////////
+////////////////////////////////////////////////////////////////
+////////////////////////////////////////////////////////////////
+////////////////////////////////////////////////////////////////
+// Test Cases Passed:                                1115 / 1115
+// Total Points Scored:                                    4 / 4
+// Your Total Score:                                        1478
+// Total Time Taken:                                        1.14
