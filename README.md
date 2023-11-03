@@ -114,6 +114,7 @@
 - ***intro.java[*** DP **]** *generating Fibonacci Numbers*
 - ***YOXOXO.java[*** Graph **]** *all min dis*
 - ***lemonade.java[*** Stuff **]** *lemonade change*
+- ***count_squares.java[*** DP **]** *count all possible squares*
 
 ### javascript/
 - scc.js
