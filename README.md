@@ -80,6 +80,7 @@
 - ***mailSystemDesign.cpp[*** List **]** *Populate Mars!*
 - ***conse.cpp[*** Bits **]** *consecutive bits*
 - ***nonconseq.cpp[*** Math **]** *non consecutive bits*
+- ***smaller_sum.cpp[*** Sorting **]** *sum of all smaller elements*
 
 ### java/
 - maxSubArr.java
