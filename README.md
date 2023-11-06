@@ -116,6 +116,7 @@
 - ***YOXOXO.java[*** Graph **]** *all min dis*
 - ***lemonade.java[*** Stuff **]** *lemonade change*
 - ***count_squares.java[*** DP **]** *count all possible squares*
+- ***ma8intasectns.java[*** Sorting **]** *maximum intersections*
 
 ### javascript/
 - scc.js
