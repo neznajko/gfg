@@ -262,6 +262,7 @@
 - ***bestnode.py[*** Tree **]** *finding best node to leaf path*
 - ***large_island.py[*** Graph **]** *constructing a large island*
 - ***noNoverlapping.py[*** Sorting **]** *a fake medium( hard )problem*
+- ***cycles.py[*** Math **]** *count cycles*
 
 ### dotnet/
 - ***HeapSort.cs**, tricky stóff*
