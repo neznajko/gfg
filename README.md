@@ -81,6 +81,7 @@
 - ***conse.cpp[*** Bits **]** *consecutive bits*
 - ***nonconseq.cpp[*** Math **]** *non consecutive bits*
 - ***smaller_sum.cpp[*** Sorting **]** *sum of all smaller elements*
+- ***insert_sort.cpp[*** List **]** *insert sort on a sll*
 
 ### java/
 - maxSubArr.java
