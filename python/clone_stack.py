@@ -1,3 +1,5 @@
+# mmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmm
+# mmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmm
 # mmmmmmmmmmmmmmmmmmmmmmmmmmmmmm mmmmmmmmmmmmmmmmmmmmmmmmmmmmmmm
 # mmmmmmmmmmmmmmmmmmmmmmmmmmmm     mmmmmmmmmmmmmmmmmmmmmmmmmmmmm
 # mmmmmmmmmmmmmmmmmmmmmmmmmm         mmmmmmmmmmmmmmmmmmmmmmmmmmm
@@ -22,10 +24,10 @@
 # ____________________________________ _________________________
 # ______________________________________________________________
 # ______________________________________________________________
-# ..............................................................
-# ..............................................................
-# ..............................................................
-# ..............................................................
+#  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+#
+#
+#
 ################################################################
 # Clone a stack without using e8tra space、会,kaカiイ
 ################################################################
