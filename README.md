@@ -82,6 +82,7 @@
 - ***nonconseq.cpp[*** Math **]** *non consecutive bits*
 - ***smaller_sum.cpp[*** Sorting **]** *sum of all smaller elements*
 - ***insert_sort.cpp[*** List **]** *insert sort on a sll*
+- ***ssl2bin3.cpp[*** Heap **]** *convyort linked list to binary tree*
 
 ### java/
 - maxSubArr.java
