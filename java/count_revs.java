@@ -36,23 +36,20 @@
 // required to convert the string into a balanced expression. A
 // reversal means changing '{' to '}' or vice-versa.
 ////////////////////////////////////////////////////////////////
-// Input:
-// S = "}{{}}{{{"
+// Input: S = "}{{}}{{{"
 // Output: 3
-// Explanation: One way to balance is:
-// "{{{}}{}}". There is no balanced sequence
-// that can be formed in lesser reversals.
+// Explanation: One way to balance is: "{{{}}{}}". There is no
+// balanced sequence that can be formed in lesser reversals.
 ////////////////////////////////////////////////////////////////
-// Input: 
-// S = "{{}{{{}{{}}{{"
+// Input: S = "{{}{{{}{{}}{{"
 // Output: -1
-// Explanation: There's no way we can balance
-// this sequence of braces.
+// Explanation: There's no way we can balance this sequence of
+// braces.
 ////////////////////////////////////////////////////////////////
-// Expected Time Complexity: O(|S|).
-// Expected Auxiliary Space: O(1).
+// Expected Time Complexity: O(|S|)
+// Expected Auxiliary Space: O(1)
 ////////////////////////////////////////////////////////////////
-// 1 ≤ |S| ≤ 105
+// 1 ≤ |S| ≤ 10^5
 ////////////////////////////////////////////////////////////////
 // .. abgetragen und so ein Figurenrechteck als Hilfs- oder
 // Kontrollrechteck gezeichnet, das auch die maximale 
