@@ -119,6 +119,7 @@
 - ***lemonade.java[*** Stuff **]** *lemonade change*
 - ***count_squares.java[*** DP **]** *count all possible squares*
 - ***ma8intasectns.java[*** Sorting **]** *maximum intersections*
+- ***count_revs.java[*** Array **]** *balancing curly brackets*
 
 ### javascript/
 - scc.js
