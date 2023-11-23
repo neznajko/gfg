@@ -271,6 +271,7 @@
 - ***select.py[*** DP **]** *Merry Christmas*
 - ***clone_stack.py[*** Stack **]** *O(1) space complexity*
 - ***ma8amount.py[*** DP **]** *game theory*
+- ***zigzag.py[*** Deque **]** *walking zig zag*
 
 ### dotnet/
 - ***HeapSort.cs**, tricky stóff*
