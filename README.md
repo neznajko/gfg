@@ -148,6 +148,7 @@
 - ***SSLBST.js[*** Tree **]** *Sorted Link List to BST*
 - ***greatTree.js[*** Tree **]** *Convyort BST to GST*
 - ***divpairs.js[*** Hash **]** *count pairs divisible by k*
+- ***handshakes.js[*** Hash **]** *no cross handshakes*
 
 ### python/
 - nodes.py
