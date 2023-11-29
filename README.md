@@ -85,6 +85,7 @@
 - ***ssl2bin3.cpp[*** Heap **]** *convyort linked list to binary tree*
 - ***isomorphic.cpp[*** Tree **]** *Check if two trees are isomorphic*
 - ***flatten.cpp[*** List **]** *flatten linked list*
+- ***revs.cpp[*** Stuff **]** *reversing words in a string*
 
 ### java/
 - maxSubArr.java
