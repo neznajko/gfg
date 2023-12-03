@@ -86,6 +86,7 @@
 - ***isomorphic.cpp[*** Tree **]** *Check if two trees are isomorphic*
 - ***flatten.cpp[*** List **]** *flatten linked list*
 - ***revs.cpp[*** Stuff **]** *reversing words in a string*
+- ***altrevs.cpp[*** List **]** *stuff*
 
 ### java/
 - maxSubArr.java
