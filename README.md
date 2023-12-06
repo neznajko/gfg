@@ -151,6 +151,7 @@
 - ***greatTree.js[*** Tree **]** *Convyort BST to GST*
 - ***divpairs.js[*** Hash **]** *count pairs divisible by k*
 - ***handshakes.js[*** Hash **]** *no cross handshakes*
+- ***activity.js[*** Sorting **]** *select ma8 nof activities*
 
 ### python/
 - nodes.py
