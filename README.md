@@ -277,6 +277,7 @@
 - ***clone_stack.py[*** Stack **]** *O(1) space complexity*
 - ***ma8amount.py[*** DP **]** *game theory*
 - ***zigzag.py[*** Deque **]** *walking zig zag*
+- ***vertorder.py[*** Tree **]** *vertical order*
 
 ### dotnet/
 - ***HeapSort.cs**, tricky stóff*
