@@ -87,6 +87,7 @@
 - ***flatten.cpp[*** List **]** *flatten linked list*
 - ***revs.cpp[*** Stuff **]** *reversing words in a string*
 - ***altrevs.cpp[*** List **]** *stuff*
+- ***longestpars.cpp[*** Stuff **]** *longest valid parentheses*
 
 ### java/
 - maxSubArr.java
