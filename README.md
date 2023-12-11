@@ -280,6 +280,7 @@
 - ***ma8amount.py[*** DP **]** *game theory*
 - ***zigzag.py[*** Deque **]** *walking zig zag*
 - ***vertorder.py[*** Tree **]** *vertical order*
+- ***mincost.py[*** Graph **]** *Dijkstra's algorithm*
 
 ### dotnet/
 - ***HeapSort.cs**, tricky stóff*
