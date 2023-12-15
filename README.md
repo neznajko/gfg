@@ -281,6 +281,7 @@
 - ***zigzag.py[*** Deque **]** *walking zig zag*
 - ***vertorder.py[*** Tree **]** *vertical order*
 - ***mincost.py[*** Graph **]** *Dijkstra's algorithm*
+- ***circle_of_strings.py[*** Graph **]** *Eulerian circuit*
 
 ### dotnet/
 - ***HeapSort.cs**, tricky stóff*
