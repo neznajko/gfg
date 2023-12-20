@@ -89,6 +89,7 @@
 - ***altrevs.cpp[*** List **]** *stuff*
 - ***longestpars.cpp[*** Stuff **]** *longest valid parentheses*
 - ***largest_bst.cpp[*** Tree **]** *largest bst sub tree*
+- ***sudoku.cpp[*** Backtracking **]** *solving sudoku*
 
 ### java/
 - maxSubArr.java
