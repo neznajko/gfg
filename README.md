@@ -287,6 +287,7 @@
 - ***vertorder.py[*** Tree **]** *vertical order*
 - ***mincost.py[*** Graph **]** *Dijkstra's algorithm*
 - ***circle_of_strings.py[*** Graph **]** *Eulerian circuit*
+- ***subtract.py[*** List **]** *subtract large numbers*
 
 ### dotnet/
 - ***HeapSort.cs**, tricky stóff*
