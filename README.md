@@ -288,6 +288,7 @@
 - ***mincost.py[*** Graph **]** *Dijkstra's algorithm*
 - ***circle_of_strings.py[*** Graph **]** *Eulerian circuit*
 - ***subtract.py[*** List **]** *subtract large numbers*
+- ***countnodes.py[*** Tree **]** *count nodes of a full tree*
 
 ### dotnet/
 - ***HeapSort.cs**, tricky stóff*
