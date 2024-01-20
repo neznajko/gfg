@@ -291,6 +291,7 @@
 - ***countnodes.py[*** Tree **]** *count nodes of a full tree*
 - ***radixsort.py[*** Sorting **]** *radix sort implementation*
 - ***coils.py[*** Stuff **]** *In Jan*
+- ***interleave.py[*** Queue **]** *mixing two halves of a queue*
 
 ### dotnet/
 - ***HeapSort.cs**, tricky stóff*
