@@ -292,6 +292,7 @@
 - ***radixsort.py[*** Sorting **]** *radix sort implementation*
 - ***coils.py[*** Stuff **]** *In Jan*
 - ***interleave.py[*** Queue **]** *mixing two halves of a queue*
+- ***convyort.py[*** Tree **]** *convyort level order to BST*
 
 ### dotnet/
 - ***HeapSort.cs**, tricky stóff*
