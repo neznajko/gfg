@@ -91,6 +91,7 @@
 - ***largest_bst.cpp[*** Tree **]** *largest bst sub tree*
 - ***sudoku.cpp[*** Backtracking **]** *solving sudoku*
 - ***Swapkth.cpp[*** List **]** *swapping kth nodes*
+- ***party.cpp[*** Tree **]** *Geek Town Party House*
 
 ### java/
 - maxSubArr.java
