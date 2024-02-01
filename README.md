@@ -301,3 +301,4 @@
 - ***connect.cs**, linking tree nodes with same level*
 - ***stickler.cs**, using Dynamic Programming for looting money*
 - ***getCount.cs**, count BST nodes within a range*
+- ***PerfectSum.cs[*** DP **]** *perfect sum problem*
