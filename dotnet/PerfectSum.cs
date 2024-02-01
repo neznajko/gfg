@@ -183,7 +183,7 @@ class Solution {
 //    not very clear how was it by split decision or a technical
 //    knockout or maybe he just dodge it cos killing the dead is
 //     the absurd even for the book. According to Dao philosophy
-//      In and Yang as they say it represents opposite forces or
+//       In and Yang as they say it represent opposite forces or
 //    something like this, for example historically the S Korean
 //  flag represents cosmic opposite forces. I'm telling this cos
 //   don't want to mess up with k-pop stars and similar I do not
