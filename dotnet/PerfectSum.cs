@@ -177,11 +177,11 @@ class Solution {
 // Total Time Taken:                                        0.11
 // prev:       github.com/neznajko/gfg/blob/main/python/coils.py
 // logbook:      Birth and death are the harmony between all and 
-// nothing. To christian religion dead lives in hell so to speak
-//    where Jesus after paying for the sins of the human kind so
-//  that they can go to eden once again goes down and defeats it
-//    not very clear how was it by split decision or a technical
-//    knockout or maybe he just dodge it cos killing the dead is
+//      nothing. To christian religion death lives in hell so to 
+// speak where Jesus after paying for the sins of the human kind
+//  so that they can go to eden once again goes down and defeats 
+//  it not very clear how was it by a split decision a technical 
+//   knockout or maybe he just dodge it cos killing the death is
 //     the absurd even for the book. According to Dao philosophy
 //       In and Yang as they say it represent opposite forces or
 //    something like this, for example historically the S Korean
