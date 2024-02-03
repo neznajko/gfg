@@ -132,6 +132,7 @@
 - ***modify.java[*** Tree **]** *reverse inorder*
 - ***132.java[*** Stack **]** *recreational spots!*
 - ***ma_imumProfit.java[*** DP **]** *buying and selling*
+- ***equalPartitn.java[*** DP **]** *splitting in two*
 
 ### javascript/
 - scc.js
