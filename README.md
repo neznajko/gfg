@@ -303,3 +303,4 @@
 - ***stickler.cs**, using Dynamic Programming for looting money*
 - ***getCount.cs**, count BST nodes within a range*
 - ***PerfectSum.cs[*** DP **]** *perfect sum problem*
+- ***LongestSubArray.cs[*** Prefix Sum **]** *fake medium( hard ) problem*
