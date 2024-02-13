@@ -304,3 +304,8 @@
 - ***getCount.cs**, count BST nodes within a range*
 - ***PerfectSum.cs[*** DP **]** *perfect sum problem*
 - ***LongestSubArray.cs[*** Prefix Sum **]** *fake medium( hard ) problem*
+- ***Search.cs[*** Searching **]** *binary search in rotated array*
+
+
+
+
