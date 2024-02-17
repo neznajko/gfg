@@ -305,6 +305,7 @@
 - ***PerfectSum.cs[*** DP **]** *perfect sum problem*
 - ***LongestSubArray.cs[*** Prefix Sum **]** *fake medium( hard ) problem*
 - ***Search.cs[*** Searching **]** *binary search in rotated array*
+- ***Union.cs[*** Hashing **]** *union of two sorted arrays*
 
 
 
