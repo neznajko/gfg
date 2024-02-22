@@ -306,6 +306,7 @@
 - ***LongestSubArray.cs[*** Prefix Sum **]** *fake medium( hard ) problem*
 - ***Search.cs[*** Searching **]** *binary search in rotated array*
 - ***Union.cs[*** Hashing **]** *union of two sorted arrays*
+- ***Unique.cs[*** Two Pointers **]** *ma_imum length stuff*
 
 
 
