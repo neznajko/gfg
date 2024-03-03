@@ -295,6 +295,7 @@
 - ***coils.py[*** Stuff **]** *In Jan*
 - ***interleave.py[*** Queue **]** *mixing two halves of a queue*
 - ***convyort.py[*** Tree **]** *convyort level order to BST*
+- ***valid_substr.py[*** Hash **]** *ma+imum valid sub-string*
 
 ### dotnet/
 - ***HeapSort.cs**, tricky stóff*
