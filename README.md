@@ -297,6 +297,7 @@
 - ***convyort.py[*** Tree **]** *convyort level order to BST*
 - ***valid_substr.py[*** Hash **]** *ma+imum valid sub-string*
 - ***oranges.py[*** BFS **]** *whatever*
+- ***check.py[*** Hash **]** *check if frequencies can be equal*
 
 ### dotnet/
 - ***HeapSort.cs**, tricky stóff*
