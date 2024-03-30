@@ -299,6 +299,7 @@
 - ***valid_substr.py[*** Hash **]** *ma+imum valid sub-string*
 - ***oranges.py[*** BFS **]** *whatever*
 - ***check.py[*** Hash **]** *check if frequencies can be equal*
+- ***word_break.py[*** dp **]** *I don't think I like samsung mobile*
 
 ### dotnet/
 - ***HeapSort.cs**, tricky stóff*
