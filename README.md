@@ -134,6 +134,7 @@
 - ***ma_imumProfit.java[*** DP **]** *buying and selling*
 - ***equalPartitn.java[*** DP **]** *splitting in two*
 - ***friends.java[*** DP **]** *Han Solo*
+- ***PalinSubseq.java[*** qb **]** *interesting problem*
 
 ### javascript/
 - scc.js
