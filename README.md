@@ -135,6 +135,7 @@
 - ***equalPartitn.java[*** DP **]** *splitting in two*
 - ***friends.java[*** DP **]** *Han Solo*
 - ***PalinSubseq.java[*** qb **]** *interesting problem*
+- ***maxindex.java[*** stack **]** *that's nice*
 
 ### javascript/
 - scc.js
