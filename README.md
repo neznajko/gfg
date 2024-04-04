@@ -302,6 +302,7 @@
 - ***oranges.py[*** BFS **]** *whatever*
 - ***check.py[*** Hash **]** *check if frequencies can be equal*
 - ***word_break.py[*** dp **]** *I don't think I like samsung mobile*
+- ***cutsegment.py[*** dp **]** *I'm sure actually*
 
 ### dotnet/
 - ***HeapSort.cs**, tricky stóff*
