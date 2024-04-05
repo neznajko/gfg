@@ -92,6 +92,7 @@
 - ***sudoku.cpp[*** Backtracking **]** *solving sudoku*
 - ***Swapkth.cpp[*** List **]** *swapping kth nodes*
 - ***party.cpp[*** Tree **]** *Geek Town Party House*
+- ***removedup.cpp[*** Stuff **]** *Òk*
 
 ### java/
 - maxSubArr.java
