@@ -304,6 +304,7 @@
 - ***check.py[*** Hash **]** *check if frequencies can be equal*
 - ***word_break.py[*** dp **]** *I don't think I like samsung mobile*
 - ***cutsegment.py[*** dp **]** *I'm sure actually*
+- ***minswaps.py[*** sorting **]** *, Watson - ! Excellent*
 
 ### dotnet/
 - ***HeapSort.cs**, tricky stóff*
