@@ -305,6 +305,7 @@
 - ***word_break.py[*** dp **]** *I don't think I like samsung mobile*
 - ***cutsegment.py[*** dp **]** *I'm sure actually*
 - ***minswaps.py[*** sorting **]** *, Watson - ! Excellent*
+- ***fstneg.py[*** Looping **]** *Mrs. Hudson!, Mrs. Hudson!*
 
 ### dotnet/
 - ***HeapSort.cs**, tricky stóff*
