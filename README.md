@@ -306,6 +306,7 @@
 - ***cutsegment.py[*** dp **]** *I'm sure actually*
 - ***minswaps.py[*** sorting **]** *, Watson - ! Excellent*
 - ***fstneg.py[*** Looping **]** *Mrs. Hudson!, Mrs. Hudson!*
+- ***catalan.py[*** Math **]** *another fake medium problem*
 
 ### dotnet/
 - ***HeapSort.cs**, tricky stóff*
