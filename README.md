@@ -308,6 +308,7 @@
 - ***minswaps.py[*** sorting **]** *, Watson - ! Excellent*
 - ***fstneg.py[*** Looping **]** *Mrs. Hudson!, Mrs. Hudson!*
 - ***catalan.py[*** Math **]** *another fake medium problem*
+- ***lensubstr.py[*** Hash **]** *len of unique chars sub string*
 
 ### dotnet/
 - ***HeapSort.cs**, tricky stóff*
