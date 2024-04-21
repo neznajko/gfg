@@ -309,6 +309,7 @@
 - ***fstneg.py[*** Looping **]** *Mrs. Hudson!, Mrs. Hudson!*
 - ***catalan.py[*** Math **]** *another fake medium problem*
 - ***lensubstr.py[*** Hash **]** *len of unique chars sub string*
+- ***noConsecOnes.py[*** DP **]** *no consecutive ones*
 
 ### dotnet/
 - ***HeapSort.cs**, tricky stóff*
