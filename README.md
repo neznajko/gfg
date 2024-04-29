@@ -94,6 +94,7 @@
 - ***party.cpp[*** Tree **]** *Geek Town Party House*
 - ***removedup.cpp[*** Stuff **]** *Òk*
 - ***cll-insert.c[*** List **]** *circular linked list*
+- ***Pascal.cc[*** DP **]** *Binomial Coefficients*
 
 ### java/
 - maxSubArr.java
