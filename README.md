@@ -311,6 +311,7 @@
 - ***catalan.py[*** Math **]** *another fake medium problem*
 - ***lensubstr.py[*** Hash **]** *len of unique chars sub string*
 - ***noConsecOnes.py[*** DP **]** *no consecutive ones*
+- ***maxchain.py[*** sorting **]** *max sequence of pairs*
 
 ### dotnet/
 - ***HeapSort.cs**, tricky stóff*
