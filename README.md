@@ -139,6 +139,7 @@
 - ***friends.java[*** DP **]** *Han Solo*
 - ***PalinSubseq.java[*** qb **]** *interesting problem*
 - ***maxindex.java[*** stack **]** *that's nice*
+- ***cutrod.java[*** DP **]** *maximize price*
 
 ### javascript/
 - scc.js
