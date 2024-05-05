@@ -168,6 +168,7 @@
 - ***handshakes.js[*** Hash **]** *no cross handshakes*
 - ***activity.js[*** Sorting **]** *select ma8 nof activities*
 - ***Queens.js[*** Backtracking **]** *put n queens on a chessboard*
+- ***product.js[*** two pointers **]** *sub-arrays with product less then k*
 
 ### python/
 - nodes.py
