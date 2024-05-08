@@ -314,6 +314,7 @@
 - ***lensubstr.py[*** Hash **]** *len of unique chars sub string*
 - ***noConsecOnes.py[*** DP **]** *no consecutive ones*
 - ***maxchain.py[*** sorting **]** *max sequence of pairs*
+- ***triangles.py[*** sorting **]** *number of possible triangles*
 
 ### dotnet/
 - ***HeapSort.cs**, tricky stóff*
