@@ -315,6 +315,7 @@
 - ***noConsecOnes.py[*** DP **]** *no consecutive ones*
 - ***maxchain.py[*** sorting **]** *max sequence of pairs*
 - ***triangles.py[*** sorting **]** *number of possible triangles*
+- ***minsum.py[*** sorting **]** *min sum with all array digits*
 
 ### dotnet/
 - ***HeapSort.cs**, tricky stóff*
