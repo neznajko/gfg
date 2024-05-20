@@ -96,6 +96,7 @@
 - ***cll-insert.c[*** List **]** *circular linked list*
 - ***Pascal.cc[*** DP **]** *Binomial Coefficients*
 - ***roottoleaf.cpp[*** Tree **]** *record all root to leaf paths*
+- ***square.cc[*** dp **]** *maximum square in a matrix*
 
 ### java/
 - maxSubArr.java
