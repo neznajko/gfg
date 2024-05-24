@@ -97,6 +97,7 @@
 - ***Pascal.cc[*** DP **]** *Binomial Coefficients*
 - ***roottoleaf.cpp[*** Tree **]** *record all root to leaf paths*
 - ***square.cc[*** dp **]** *maximum square in a matrix*
+- ***mindif.cpp[*** tree **]** *minimum difference*
 
 ### java/
 - maxSubArr.java
