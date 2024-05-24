@@ -142,6 +142,7 @@
 - ***PalinSubseq.java[*** qb **]** *interesting problem*
 - ***maxindex.java[*** stack **]** *that's nice*
 - ***cutrod.java[*** DP **]** *maximize price*
+- ***su_barray.java[*** Stuff **]** *non negative*
 
 ### javascript/
 - scc.js
