@@ -145,6 +145,7 @@
 - ***cutrod.java[*** DP **]** *maximize price*
 - ***su_barray.java[*** Stuff **]** *max sum non negative sub array*
 - ***small_ernumber.java[*** Stack **]** *smaller number on the left*
+- ***isB_ST_pairpre_sent.java[*** Hashing **]** *checking for nod epairs*
 
 ### javascript/
 - scc.js
