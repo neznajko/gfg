@@ -99,6 +99,7 @@
 - ***square.cc[*** dp **]** *maximum square in a matrix*
 - ***mindif.cpp[*** tree **]** *minimum difference*
 - ***minsteps.cpp[*** math **]** *required*
+- ***pai_ran_dsum.cpp[*** math **]** *I 4hink this is hard problem*
 
 ### java/
 - maxSubArr.java
