@@ -1,0 +1,87 @@
+////////////////////////////////////////////////////////////////
+// Minimum steps to destination
+////////////////////////////////////////////////////////////////
+// Given an infinite number line. You start at 0 and can go
+// either to the left or to the right. The condition is that in
+// the ith move, you must take i steps. Given a destination d,
+// find the minimum number of steps required to reach that
+// destination
+////////////////////////////////////////////////////////////////
+// Input: d = 2, Output: 3
+// Explaination: The steps taken are +1, -2 and +3
+////////////////////////////////////////////////////////////////
+// Input: d = 10
+// Output: 4
+// Explaination: The steps taken are +1, +2, +3 and +4
+////////////////////////////////////////////////////////////////
+// Expected Time Complexity: O(sqrt(d))
+// Expected Auxiliary Space: O(1)
+////////////////////////////////////////////////////////////////
+// 1 ≤ d ≤ 10000
+////////////////////////////////////////////////////////////////
+# include <iostream>
+# include <cmath>
+////////////////////////////////////////////////////////////////
+using namespace std;
+////////////////////////////////////////////////////////////////
+class Solution{public:int minSteps(int d);};
+////////////////////////////////////////////////////////////////
+int main(){int t;cin>>t;while(t--){int d;cin>>d;Solution ob;
+cout<<ob.minSteps(d)<<"\n";}return 0;}
+////////////////////////////////////////////////////////////////
+////////////////////////////////////////////////////////////////
+////////////////////////////////////////////////////////////////
+////////////////////////////////////////////////////////////////
+// There is an O(1) solution based on this formula:
+// 1 + 2 + ... + n = n( n + 1 )/2, if the equation
+// n( n + 1 ) = 2d has positive integer solution like in the
+// case of d = 10 and n = 4, that's it otherwise we start
+// looking for the minimum steps required by incrementing from
+// the positive floor solution that is from
+// ( sqrt( 1 + 8 * d ) - 1 ) / 2. If d can be represented as
+// 1 + 2 + ... - i + ... - j + ... n for some i and j we
+// check if we can flip the switches cos
+// 1 + ... + n = 1 + ... - i + ... - j + ... + n + 2( i + j ),
+// that is the dif between n( n + 1 )/2 and d should be even,
+// not very clear perhaps, but couldn't find the dp solution:)
+////////////////////////////////////////////////////////////////
+int get_n( int d )
+{
+    return ( sqrt( 1 + 8 * d ) - 1 ) / 2;
+}
+////////////////////////////////////////////////////////////////
+int get_d( int n )
+{
+    return n * ( n + 1 ) / 2;
+}
+////////////////////////////////////////////////////////////////
+int Solution::minSteps( int d )
+{
+    int n = get_n( d );
+    if( get_d( n ) == d ){
+        return n;
+    }
+    while( true ){
+        ++n;
+        int dif = get_d( n ) - d;
+        if( !( dif & 1 )) break;
+    }
+    return n;
+}
+////////////////////////////////////////////////////////////////
+// 日曜日に行きます。
+// Ich werde am Sonntag gehen.
+////////////////////////////////////////////////////////////////
+// 十時四十五分に起きます。
+// Ich stehe um 10:45 auf.
+////////////////////////////////////////////////////////////////
+// 九月に帰ります。
+// Ich werde im September zurückkehren.
+////////////////////////////////////////////////////////////////
+// あしたに来ます。
+// Ich werde morgen kommen.
+////////////////////////////////////////////////////////////////
+// Test Cases Passed:                                1115 / 1115
+// Points Scored:                                          4 / 4
+// Your Total Score:                                        1798 
+// Time Taken:                                              0.01

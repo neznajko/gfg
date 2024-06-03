@@ -98,6 +98,7 @@
 - ***roottoleaf.cpp[*** Tree **]** *record all root to leaf paths*
 - ***square.cc[*** dp **]** *maximum square in a matrix*
 - ***mindif.cpp[*** tree **]** *minimum difference*
+- ***minsteps.cpp[*** math **]** *required*
 
 ### java/
 - maxSubArr.java
