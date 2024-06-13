@@ -325,6 +325,7 @@
 - ***maxchain.py[*** sorting **]** *max sequence of pairs*
 - ***triangles.py[*** sorting **]** *number of possible triangles*
 - ***minsum.py[*** sorting **]** *min sum with all array digits*
+- ***topk.py[*** sorting **]** *sorting a hash table*
 
 ### dotnet/
 - ***HeapSort.cs**, tricky stóff*
