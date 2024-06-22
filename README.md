@@ -101,6 +101,7 @@
 - ***minsteps.cpp[*** math **]** *required*
 - ***pai_ran_dsum.cpp[*** math **]** *I 4hink this is hard problem*
 - ***sumstr.cc[*** math **]** *4 relaxing times make it santori time*
+- ***mothervertex.cc[*** Graph **]** *finding Mother vertex in a graph*
 
 ### java/
 - maxSubArr.java
