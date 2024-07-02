@@ -329,6 +329,7 @@
 - ***minsum.py[*** sorting **]** *min sum with all array digits*
 - ***topk.py[*** sorting **]** *sorting a hash table*
 - ***two_arrays.py[*** searching **]** *binary search*
+- ***combinat.py[*** recursion **]** *all sum combinations*
 
 ### dotnet/
 - ***HeapSort.cs**, tricky stóff*
