@@ -103,6 +103,7 @@
 - ***sumstr.cc[*** math **]** *4 relaxing times make it santori time*
 - ***mothervertex.cc[*** Graph **]** *finding Mother vertex in a graph*
 - ***even_and_odd.cpp[*** Linked List **]** *detach and insert*
+- ***maxamount.cpp[*** Games Theory**]** *Minimax*
 
 ### java/
 - maxSubArr.java
