@@ -105,6 +105,7 @@
 - ***even_and_odd.cpp[*** Linked List **]** *detach and insert*
 - ***maxamount.cpp[*** Games Theory **]** *Minimax*
 - ***ACV.cpp[*** Linked List **]** *Arrange Consonants and Vowels*
+- ***remv.cc[*** Stack **]** *remove k digits from a number*
 
 ### java/
 - maxSubArr.java
