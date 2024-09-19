@@ -163,14 +163,14 @@ root,k)<<endl;}}////////////////////////////////////////////////
 // Let's try to fix x and find the maximum possible y
 // y = (tgŒ)x - (g|2v²)(1 + tg²Œ)x², b := tgŒ
 // y = bx - (g|2v²)(1 + b²)x²
-// dy/db = x - bgx²|v² = 0, bx = v²|g, zo
+// dy|db = x - bgx²|v² = 0, bx = v²|g, zo
 // y = v²|g - gx²|2v² - g(bx)²|2v² =
 //   = v²|g - gx²|2v² - v²|2g =
 //   = v²|2g - gx²|2v²                                         «
 // c) the minimum initial projectile velocity necessary to hit a
 // target at (x,y)
 // Here we use the result of b) cos it gives the maximum
-// reachable coordinated (x,y) at a given v:
+// reachable coordinate (x,y) at a given v:
 // y = v²|2g - gx²|2v², u := v²|g
 // y = u|2 - x²|2u, 2uy = u² - x²
 // u² - 2uy + y² - y² - x² = (u - y)² - (x² + y²) = 0
