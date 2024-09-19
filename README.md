@@ -107,6 +107,7 @@
 - ***ACV.cpp[*** Linked List **]** *Arrange Consonants and Vowels*
 - ***remv.cc[*** Stack **]** *remove k digits from a number*
 - ***distance-from-leaf.cpp[*** Tree **]** *count special nodes*
+- ***rearrange.cpp[*** Sorting **]** *mergesort*
 
 ### java/
 - maxSubArr.java
