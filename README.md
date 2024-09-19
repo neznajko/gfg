@@ -106,6 +106,7 @@
 - ***maxamount.cpp[*** Games Theory **]** *Minimax*
 - ***ACV.cpp[*** Linked List **]** *Arrange Consonants and Vowels*
 - ***remv.cc[*** Stack **]** *remove k digits from a number*
+- ***distance-from-leaf.cpp[*** Tree **]** *count special nodes*
 
 ### java/
 - maxSubArr.java
