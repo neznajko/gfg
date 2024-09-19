@@ -170,7 +170,7 @@ root,k)<<endl;}}////////////////////////////////////////////////
 // c) the minimum initial projectile velocity necessary to hit a
 // target at (x,y)
 // Here we use the result of b) cos it gives the maximum
-// reachable coordinate (x,y) at a given v:
+// reachable coordinates (x,y) at a given v:
 // y = v²|2g - gx²|2v², u := v²|g
 // y = u|2 - x²|2u, 2uy = u² - x²
 // u² - 2uy + y² - y² - x² = (u - y)² - (x² + y²) = 0
