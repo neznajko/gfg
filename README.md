@@ -336,6 +336,7 @@
 - ***topk.py[*** sorting **]** *sorting a hash table*
 - ***two_arrays.py[*** searching **]** *binary search*
 - ***combinat.py[*** recursion **]** *find all sum combinations*
+- ***binarystrings.py[*** math **]** *adding binary strings*
 
 ### dotnet/
 - ***HeapSort.cs**, tricky stóff*
