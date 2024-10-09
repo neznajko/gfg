@@ -337,6 +337,7 @@
 - ***two_arrays.py[*** searching **]** *binary search*
 - ***combinat.py[*** recursion **]** *find all sum combinations*
 - ***binarystrings.py[*** math **]** *adding binary strings*
+- ***specify.py[*** TREE **]** *all path that sums up to a givn sum*
 
 ### dotnet/
 - ***HeapSort.cs**, tricky stóff*
