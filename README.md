@@ -108,7 +108,7 @@
 - ***remv.cc[*** Stack **]** *remove k digits from a number*
 - ***distance-from-leaf.cpp[*** Tree **]** *count special nodes*
 - ***rearrange.cpp[*** Sorting **]** *mergesort*
-- ***threesum.cpp[*** Two Pointer **]** *find closest three sum*
+- ***threesum.cc[*** Two Pointer **]** *find closest three sum*
 
 ### java/
 - maxSubArr.java
