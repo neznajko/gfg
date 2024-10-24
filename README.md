@@ -109,6 +109,7 @@
 - ***distance-from-leaf.cpp[*** Tree **]** *count special nodes*
 - ***rearrange.cpp[*** Sorting **]** *mergesort*
 - ***threesum.cc[*** Two Pointer **]** *find closest three sum*
+- ***duplrows.cc[*** Trie **]** *check for duplicate rows*
 
 ### java/
 - maxSubArr.java
