@@ -340,6 +340,7 @@
 - ***combinat.py[*** recursion **]** *find all sum combinations*
 - ***binarystrings.py[*** math **]** *adding binary strings*
 - ***specify.py[*** TREE **]** *all path that sums up to a givn sum*
+- ***candycrush.py[*** STACK **]** *Restrictive Candy Crush*
 
 ### dotnet/
 - ***HeapSort.cs**, tricky stóff*
