@@ -130,7 +130,7 @@ if __name__=="__main__": #######################################
 ###         v |  ||     ,      ### ne. What is the velocity of t
 ###           V  || , ` ,      ### he wedge?
 ###             , `     ,      ###
-###         , `         ,      ### Ok here ve go again ff we see
+###         , `         ,      ### Ok here ve go again if we see
 ###     , `  30°        ,      ### at the picture with respect o
 ###////////////////////////////### f a system moving with the we
 ################################## dge, the rod will slide on it
