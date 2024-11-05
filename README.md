@@ -341,6 +341,7 @@
 - ***binarystrings.py[*** math **]** *adding binary strings*
 - ***specify.py[*** TREE **]** *all path that sums up to a givn sum*
 - ***candycrush.py[*** STACK **]** *Restrictive Candy Crush*
+- ***bridge.py[*** GRAPH **]** *A Very Odd Problem*
 
 ### dotnet/
 - ***HeapSort.cs**, tricky stóff*
