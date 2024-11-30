@@ -111,6 +111,7 @@
 - ***threesum.cc[*** Two Pointers **]** *find closest three sum*
 - ***duplrows.cc[*** Trie **]** *check for duplicate rows*
 - ***closest_to_0.cc[*** Two Pointers **]** *closest to 0 sum*
+- ***triplets.cc[*** Two Pointers **]** *check for zero sum triplet*
 
 ### java/
 - maxSubArr.java
