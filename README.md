@@ -112,6 +112,7 @@
 - ***duplrows.cc[*** Trie **]** *check for duplicate rows*
 - ***closest_to_0.cc[*** Two Pointers **]** *closest to 0 sum*
 - ***triplets.cc[*** Two Pointers **]** *check for zero sum triplet*
+- ***minsumpartn.cpp[*** dp **]** *a beautiful problem*
 
 ### java/
 - maxSubArr.java
