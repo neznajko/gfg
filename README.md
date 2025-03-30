@@ -345,6 +345,7 @@
 - ***specify.py[*** TREE **]** *all path that sums up to a givn sum*
 - ***candycrush.py[*** STACK **]** *Restrictive Candy Crush*
 - ***bridge.py[*** GRAPH **]** *A Very Odd Problem*
+- ***twostacks.py[*** STACK **]** *Stack implementation*
 
 ### dotnet/
 - ***HeapSort.cs**, tricky stóff*
