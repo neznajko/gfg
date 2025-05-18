@@ -347,6 +347,7 @@
 - ***candycrush.py[*** STACK **]** *Restrictive Candy Crush*
 - ***bridge.py[*** GRAPH **]** *A Very Odd Problem*
 - ***twostacks.py[*** STACK **]** *Stack implementation*
+- ***subarrays.py[*** HASHING **]** *sub arrays that sum to k*
 
 ### dotnet/
 - ***HeapSort.cs**, tricky stóff*
