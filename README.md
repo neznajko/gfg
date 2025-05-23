@@ -348,6 +348,7 @@
 - ***bridge.py[*** GRAPH **]** *A Very Odd Problem*
 - ***twostacks.py[*** STACK **]** *Stack implementation*
 - ***subarrays.py[*** HASHING **]** *sub arrays that sum to k*
+- ***numofpairs.py[*** SEARCHING **]** *x^y > y^x number of pairs*
 
 ### dotnet/
 - ***HeapSort.cs**, tricky stóff*
