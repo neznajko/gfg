@@ -114,6 +114,7 @@
 - ***triplets.cc[*** Two Pointers **]** *check for zero sum triplet*
 - ***minsumpartn.cpp[*** dp **]** *a beautiful problem*
 - ***frogjump.cc[*** dp **]** *that is dynamic programming*
+- ***occured.cpp[*** prefix sum **]** *beautiful problem*
 
 ### java/
 - maxSubArr.java
