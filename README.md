@@ -351,6 +351,7 @@
 - ***subarrays.py[*** HASHING **]** *sub arrays that sum to k*
 - ***numofpairs.py[*** SEARCHING **]** *x^y > y^x number of pairs*
 - ***sortfreq.py[*** h a s h i n g **]** sor4ing
+- ***BetterString.py[*** dp **]** number of distinct subsequences
 
 ### dotnet/
 - ***HeapSort.cs**, tricky stóff*
