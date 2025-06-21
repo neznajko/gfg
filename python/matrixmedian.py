@@ -172,11 +172,11 @@ class Solution:
 #################### Lets assume t h e washer is moving on right 
 #################### and rotating cw then the velocity at points
 ########    ######## A and B will be directed as follows:
-######        ######       . .       Becoz the friction force is
-#####          #####     .`. .`.     opposite t o velocity a n d
+######        ######       . B       Becoz the friction force is
+#####          #####     .`. B`.     opposite t o velocity a n d
 ##### A      B #####   .`.`   `.`.   becoz force is a vector the
-#####          ##### A`.`       `.`B sum force size will be less
-######        ###### A`           `B then 2f w h e r e f i s the
+#####          ##### A`.`       `.`. sum force size will be less
+######        ###### A`           `. then 2f w h e r e f i s the
 ########    ########                 friction force at A a n d B
 #################### S o in rotation the resulting friction will 
 #################### be less then t h e case without rotation so 
