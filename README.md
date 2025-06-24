@@ -353,6 +353,7 @@
 - ***sortfreq.py[*** h a s h i n g **]** sor4ing
 - ***BetterString.py[*** dp **]** number of distinct subsequences
 - ***matrixmedian.py[*** s e a r c h i n g **]** value range binary search
+- ***AggressiveCows.py[*** s e a r c h i n g **]** arranging aggressive cows
 
 ### dotnet/
 - ***HeapSort.cs**, tricky stóff*
