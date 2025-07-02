@@ -115,6 +115,7 @@
 - ***minsumpartn.cpp[*** dp **]** *a beautiful problem*
 - ***frogjump.cc[*** dp **]** *that is dynamic programming*
 - ***occured.cpp[*** prefix sum **]** *beautiful problem*
+- ***PalPartition.cc[*** dp, bfs **]** *min cut pal partition*
 
 ### java/
 - maxSubArr.java
