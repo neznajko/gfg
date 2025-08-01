@@ -355,6 +355,7 @@
 - ***BetterString.py[*** dp **]** number of distinct subsequences
 - ***matrixmedian.py[*** s e a r c h i n g **]** value range binary search
 - ***AggressiveCows.py[*** s e a r c h i n g **]** arranging aggressive cows
+- ***form_palindrome.py[*** dp **]** bottom up
 
 ### dotnet/
 - ***HeapSort.cs**, tricky stóff*
