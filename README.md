@@ -116,6 +116,7 @@
 - ***frogjump.cc[*** dp **]** *that is dynamic programming*
 - ***occured.cpp[*** prefix sum **]** *beautiful problem*
 - ***PalPartition.cc[*** dp, bfs **]** *min cut pal partition*
+- ***reverse_groups.cc[*** 2 pointa **]** *reverse in groups of size k*
 
 ### java/
 - maxSubArr.java
